@@ -1,0 +1,43 @@
+#!/usr/bin/env python
+import time
+from selenium import webdriver
+
+fo = open("data.txt", "a")
+browser = webdriver.Firefox()
+browser.get('http://terrorist-attacks.findthedata.org/')
+next=browser.find_element_by_css_selector("div.next.bg_grad.float")
+	
+i=0
+
+while i<82594:
+	if i!=0:
+		time.sleep(60)
+		next=browser.find_element_by_css_selector("div.next.bg_grad.float")
+		next.click()
+		time.sleep(60)	
+	python_link = browser.find_elements_by_css_selector("a.srp-listing-title.thm-hover")
+	print python_link
+	l=0
+	while l<len(python_link):
+		flag=1
+		br = webdriver.Firefox()
+		while flag:
+			br.set_page_load_timeout(30)
+			try:
+				br.get(python_link[l].get_attribute("href"))
+				flag=0
+			except:
+				flag=1
+		heading=br.find_elements_by_css_selector("td.fname")
+		value=br.find_elements_by_css_selector("td.fdata")
+		fo.write("Data Value-"+str(l+i)+"\n")
+		fo.write("--------------\n\n")
+		for j in xrange(len(heading)):
+			fo.write((heading[j].text)+"-"+"\t"+value[j].text+"\n")
+		fo.write("----------------------------------------\n\n")
+		time.sleep(7)	
+		br.quit()
+		l=l+1
+	i=i+20	
+browser.quit()
+

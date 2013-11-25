@@ -1,0 +1,544 @@
+ Armed Attack 	  June 30, 2011 	  Sudan 	  Gharb Darfur 	  1 	  1
+ Kidnapping 	  June 30, 2011 	  Somalia 	  Gedo 	  0 	  0
+ Bombing 	  June 30, 2011 	  Yemen 	  Ma'rib 	 - 	 -
+ Armed Attack 	  June 30, 2011 	  Iraq 	  Kirkuk 	  1 	  1
+ Armed Attack 	  June 30, 2011 	  Iraq 	  Baghdad 	  2 	  0
+ Bombing 	  June 30, 2011 	  Iraq 	  Salah ad Din 	  1 	  0
+ Barricade/Hostage 	  June 30, 2011 	  Iraq 	  Ninawa 	  0 	  3
+ Armed Attack 	  June 30, 2011 	  Iraq 	  Kirkuk 	  1 	  0
+ Bombing 	  June 30, 2011 	  Pakistan 	  Khyber Pakhtunkhwa 	 - 	 -
+ Unknown 	  June 30, 2011 	  India 	  Maharashtra 	  0 	  2
+ Armed Attack 	  June 30, 2011 	  India 	  Jammu and Kashmir 	  1 	  0
+ Armed Attack 	  June 30, 2011 	  India 	  Nagaland 	  0 	  2
+ Bombing 	  June 30, 2011 	  India 	  Manipur 	  0 	  0
+ Armed Attack 	  June 30, 2011 	  Afghanistan 	  Ghazni 	  4 	  5
+ Bombing 	  June 30, 2011 	  Afghanistan 	  Kunduz 	  3 	  0
+ Armed Attack 	  June 30, 2011 	  Afghanistan 	  Khost 	  3 	  1
+ Bombing 	  June 30, 2011 	  Afghanistan 	  Helmand 	  0 	  2
+ Arson/Firebombing 	  June 30, 2011 	  Philippines 	  Agusan del Sur 	 - 	 -
+ Arson/Firebombing 	  June 30, 2011 	  Indonesia 	  Jawa Barat 	 - 	 -
+ Bombing 	  June 29, 2011 	  Colombia 	  Antioquia 	  2 	  1
+ Assault 	  June 29, 2011 	  Somalia 	  Hiiraan 	  1 	  0
+ Assault 	  June 29, 2011 	  Yemen 	  Abyan 	  1 	  0
+ Barricade/Hostage 	  June 29, 2011 	  Iraq 	  Ninawa 	  0 	  3
+ Bombing 	  June 29, 2011 	  Iraq 	  Baghdad 	  0 	  1
+ Bombing 	  June 29, 2011 	  Iraq 	  Al Anbar 	  1 	  1
+ Bombing 	  June 29, 2011 	  Iraq 	  Ninawa 	  1 	  0
+ Armed Attack 	  June 29, 2011 	  Iraq 	  Baghdad 	  0 	  0
+ Armed Attack 	  June 29, 2011 	  Iraq 	  Kirkuk 	  1 	  0
+ Bombing 	  June 29, 2011 	  Iraq 	  Baghdad 	  2 	  0
+ Bombing 	  June 29, 2011 	  Iraq 	  Baghdad 	  4 	  1
+ Armed Attack 	  June 29, 2011 	  Iraq 	  Baghdad 	  0 	  1
+ Armed Attack 	  June 29, 2011 	  Iraq 	  Baghdad 	  1 	  0
+ Armed Attack 	  June 29, 2011 	  Iraq 	  Baghdad 	  0 	  1
+ Armed Attack 	  June 29, 2011 	  India 	  Meghalaya 	  0 	  0
+ Bombing 	  June 29, 2011 	  Afghanistan 	  Helmand 	  2 	  1
+ Bombing 	  June 29, 2011 	  Afghanistan 	  Kandahar 	  1 	  0
+ Armed Attack 	  June 29, 2011 	  Afghanistan 	  Kandahar 	  0 	  1
+ Armed Attack 	  June 29, 2011 	  Afghanistan 	  Kandahar 	  0 	  1
+ Bombing 	  June 29, 2011 	  Afghanistan 	  Zabul 	  4 	  0
+ Kidnapping 	  June 29, 2011 	  Burma 	  Mon 	  0 	  0
+ Bombing 	  June 29, 2011 	  Burma 	  Mon 	 - 	 -
+ Bombing 	  June 29, 2011 	  Burma 	  Bago 	 - 	 -
+ Bombing 	  June 28, 2011 	  Mali 	  Unknown 	  0 	  0
+ Bombing 	  June 28, 2011 	  Russia 	  Dagestan 	 - 	 -
+ Bombing 	  June 28, 2011 	  Turkey 	  Agri 	 - 	 -
+ Bombing 	  June 28, 2011 	  Turkey 	  Hakkari 	  1 	  0
+ Kidnapping 	  June 28, 2011 	  Somalia 	  Shabeellaha Hoose 	  0 	  0
+ Unknown 	  June 28, 2011 	  Somalia 	  Shabeellaha Hoose 	  1 	  0
+ Bombing 	  June 28, 2011 	  Iraq 	  Diyala 	  1 	  0
+ Armed Attack 	  June 28, 2011 	  Iraq 	  Diyala 	  0 	  1
+ Armed Attack 	  June 28, 2011 	  Iraq 	  Kirkuk 	  1 	  0
+ Bombing 	  June 28, 2011 	  Iraq 	  Al Anbar 	  0 	  1
+ Bombing 	  June 28, 2011 	  Iraq 	  Diyala 	  1 	  0
+ Armed Attack 	  June 28, 2011 	  Pakistan 	  Balochistan 	  0 	  1
+ Armed Attack 	  June 28, 2011 	  Pakistan 	  Khyber Pakhtunkhwa 	  3 	  0
+ Armed Attack 	  June 28, 2011 	  Pakistan 	  Balochistan 	  0 	  0
+ Armed Attack 	  June 28, 2011 	  India 	  Jharkhand 	  0 	  1
+ Kidnapping 	  June 28, 2011 	  Afghanistan 	  Nangarhar 	  0 	  0
+ Armed Attack 	  June 28, 2011 	  Afghanistan 	  Faryab 	  0 	  0
+ Bombing 	  June 28, 2011 	  Afghanistan 	  Kandahar 	  0 	  1
+ Arson/Firebombing 	  June 28, 2011 	  Afghanistan 	  Nangarhar 	 - 	 -
+ Arson/Firebombing 	  June 28, 2011 	  Afghanistan 	  Ghazni 	 - 	 -
+ Bombing 	  June 28, 2011 	  Afghanistan 	  Kandahar 	  0 	  0
+ Armed Attack 	  June 28, 2011 	  Afghanistan 	  Uruzgan 	  1 	  0
+ Bombing 	  June 28, 2011 	  Afghanistan 	  Uruzgan 	  3 	  0
+ Bombing 	  June 28, 2011 	  Afghanistan 	  Kabul 	  0 	  0
+ Kidnapping 	  June 27, 2011 	  Somalia 	  Shabeellaha Hoose 	  0 	  0
+ Bombing 	  June 27, 2011 	  Nigeria 	  Borno 	  3 	  0
+ Armed Attack 	  June 27, 2011 	  Iraq 	  Diyala 	  1 	  0
+ Armed Attack 	  June 27, 2011 	  Iraq 	  Diyala 	  1 	  1
+ Armed Attack 	  June 27, 2011 	  Iraq 	  Ninawa 	  0 	  1
+ Bombing 	  June 27, 2011 	  Iraq 	  Ninawa 	  4 	  0
+ Bombing 	  June 27, 2011 	  Iraq 	  Diyala 	  3 	  0
+ Bombing 	  June 27, 2011 	  Egypt 	  Al Jizah 	 - 	 -
+ Bombing 	  June 27, 2011 	  Pakistan 	  Khyber Pakhtunkhwa 	 - 	 -
+ Bombing 	  June 27, 2011 	  Pakistan 	  Federally Administered Tribal Areas 	 - 	 -
+ Arson/Firebombing 	  June 27, 2011 	  Pakistan 	  Khyber Pakhtunkhwa 	  0 	  0
+ Armed Attack 	  June 27, 2011 	  Pakistan 	  Sindh 	  19 	  1
+ Armed Attack 	  June 27, 2011 	  Pakistan 	  Balochistan 	  1 	  0
+ Assault 	  June 27, 2011 	  India 	  Manipur 	  2 	  0
+ Armed Attack 	  June 27, 2011 	  India 	  Jammu and Kashmir 	  0 	  1
+ Arson/Firebombing 	  June 27, 2011 	  India 	  Jharkhand 	 - 	 -
+ Kidnapping 	  June 27, 2011 	  Afghanistan 	  Logar 	  0 	  0
+ Bombing 	  June 27, 2011 	  Afghanistan 	  Ghazni 	  0 	  2
+ Armed Attack 	  June 27, 2011 	  Afghanistan 	  Khost 	  0 	  1
+ Armed Attack 	  June 27, 2011 	  Afghanistan 	  Jowzjan 	  1 	  0
+ Bombing 	  June 27, 2011 	  Afghanistan 	  Ghazni 	  0 	  3
+ Bombing 	  June 27, 2011 	  Afghanistan 	  Ghazni 	  0 	  2
+ Bombing 	  June 27, 2011 	  Philippines 	  Cotabato 	 - 	 -
+ Bombing 	  June 26, 2011 	  Russia 	  Dagestan 	 - 	 -
+ Assault 	  June 26, 2011 	  Somalia 	  Bari 	  0 	  2
+ Kidnapping 	  June 26, 2011 	  Somalia 	  Jubbada Hoose 	  0 	  0
+ Armed Attack 	  June 26, 2011 	  Somalia 	  Mudug 	  0 	  1
+ Bombing 	  June 26, 2011 	  Pakistan 	  Khyber Pakhtunkhwa 	 - 	 -
+ Arson/Firebombing 	  June 26, 2011 	  Greece 	  Attiki 	 - 	 -
+ Bombing 	  June 26, 2011 	  Nigeria 	  Borno 	  30 	  25
+ Armed Attack 	  June 26, 2011 	  Iraq 	  Al Basrah 	 - 	 -
+ Bombing 	  June 26, 2011 	  Iraq 	  Salah ad Din 	  0 	  1
+ Bombing 	  June 26, 2011 	  Iraq 	  Baghdad 	  9 	  3
+ Bombing 	  June 26, 2011 	  Iraq 	  Kirkuk 	  2 	  0
+ Bombing 	  June 26, 2011 	  Iraq 	  Babil 	  6 	  1
+ Bombing 	  June 26, 2011 	  Gaza Strip 	 - 	  1 	  0
+ Bombing 	  June 26, 2011 	  Pakistan 	  Punjab 	  3 	  0
+ Assault 	  June 26, 2011 	  Nepal 	  Banke 	  0 	  1
+ Bombing 	  June 26, 2011 	  India 	  Chhattisgarh 	  3 	  4
+ Armed Attack 	  June 26, 2011 	  India 	  Maharashtra 	  0 	  1
+ Theft 	  June 26, 2011 	  Afghanistan 	  Paktiya 	  0 	  0
+ Bombing 	  June 26, 2011 	  Afghanistan 	  Herat 	  2 	  0
+ Bombing 	  June 26, 2011 	  Afghanistan 	  Herat 	  5 	  0
+ Bombing 	  June 26, 2011 	  Afghanistan 	  Wardak 	  0 	  0
+ Bombing 	  June 26, 2011 	  Afghanistan 	  Ghazni 	  6 	  0
+ Bombing 	  June 26, 2011 	  Afghanistan 	  Uruzgan 	  0 	  0
+ Armed Attack 	  June 25, 2011 	  Colombia 	  Narino 	  0 	  1
+ Kidnapping 	  June 25, 2011 	  Somalia 	  Shabeellaha Dhexe 	  0 	  0
+ Kidnapping 	  June 25, 2011 	  Somalia 	  Jubbada Hoose 	  0 	  0
+ Kidnapping 	  June 25, 2011 	  Somalia 	  Hiiraan 	  0 	  0
+ Kidnapping 	  June 25, 2011 	  Somalia 	  Jubbada Hoose 	  0 	  0
+ Bombing 	  June 25, 2011 	  Iraq 	  Ninawa 	  4 	  1
+ Kidnapping 	  June 25, 2011 	  Iraq 	  Kirkuk 	  0 	  0
+ Bombing 	  June 25, 2011 	  Iraq 	  Al Anbar 	  3 	  1
+ Bombing 	  June 25, 2011 	  Iraq 	  Salah ad Din 	  0 	  1
+ Bombing 	  June 25, 2011 	  Iraq 	  Baghdad 	  2 	  0
+ Armed Attack 	  June 25, 2011 	  Iraq 	  Baghdad 	  0 	  1
+ Bombing 	  June 25, 2011 	  Iraq 	  Al Anbar 	  0 	  0
+ Armed Attack 	  June 25, 2011 	  Iraq 	  Baghdad 	  0 	  1
+ Armed Attack 	  June 25, 2011 	  Iraq 	  Al Anbar 	  0 	  1
+ Bombing 	  June 25, 2011 	  Gaza Strip 	 - 	  1 	  0
+ Armed Attack 	  June 25, 2011 	  Pakistan 	  Balochistan 	  0 	  0
+ Assault 	  June 25, 2011 	  Pakistan 	  Federally Administered Tribal Areas 	  0 	  2
+ Bombing 	  June 25, 2011 	  Pakistan 	  Federally Administered Tribal Areas 	 - 	 -
+ Bombing 	  June 25, 2011 	  Pakistan 	  Sindh 	  0 	  0
+ Armed Attack 	  June 25, 2011 	  Pakistan 	  Balochistan 	  0 	  0
+ Bombing 	  June 25, 2011 	  Pakistan 	  Balochistan 	 - 	 -
+ Bombing 	  June 25, 2011 	  Pakistan 	  Khyber Pakhtunkhwa 	  5 	  10
+ Armed Attack 	  June 25, 2011 	  India 	  Maharashtra 	  0 	  1
+ Kidnapping 	  June 25, 2011 	  Afghanistan 	  Farah 	  0 	  2
+ Bombing 	  June 25, 2011 	  Afghanistan 	  Kabul 	  0 	  0
+ Assault 	  June 25, 2011 	  Afghanistan 	  Ghor 	  0 	  1
+ Armed Attack 	  June 25, 2011 	  Afghanistan 	  Herat 	  0 	  1
+ Bombing 	  June 25, 2011 	  Afghanistan 	  Herat 	  3 	  0
+ Arson/Firebombing 	  June 25, 2011 	  Afghanistan 	  Herat 	 - 	 -
+ Bombing 	  June 25, 2011 	  Afghanistan 	  Uruzgan 	 - 	 -
+ Armed Attack 	  June 25, 2011 	  Afghanistan 	  Uruzgan 	  0 	  1
+ Bombing 	  June 25, 2011 	  Afghanistan 	  Logar 	  36 	  25
+ Bombing 	  June 25, 2011 	  Philippines 	  Basilan 	  12 	  3
+ Bombing 	  June 24, 2011 	  Russia 	  Kabardino-Balkariya 	 - 	 -
+ Bombing 	  June 24, 2011 	  Colombia 	  Arauca 	  4 	  0
+ Bombing 	  June 24, 2011 	  Yemen 	  Shabwah 	 - 	 -
+ Bombing 	  June 24, 2011 	  Yemen 	  'Adan 	  4 	  3
+ Armed Attack 	  June 24, 2011 	  Iraq 	  Al Anbar 	  0 	  1
+ Unknown 	  June 24, 2011 	  Iraq 	  Ninawa 	  0 	  1
+ Armed Attack 	  June 24, 2011 	  Iraq 	  Baghdad 	  0 	  1
+ Armed Attack 	  June 24, 2011 	  Iraq 	  Salah ad Din 	  0 	  1
+ Armed Attack 	  June 24, 2011 	  Pakistan 	  Federally Administered Tribal Areas 	  0 	  0
+ Bombing 	  June 24, 2011 	  Pakistan 	  Balochistan 	 - 	 -
+ Armed Attack 	  June 24, 2011 	  India 	  Jammu and Kashmir 	  5 	  0
+ Kidnapping 	  June 24, 2011 	  India 	  Orissa 	  0 	  1
+ Armed Attack 	  June 24, 2011 	  Afghanistan 	  Kandahar 	  0 	  1
+ Bombing 	  June 24, 2011 	  Afghanistan 	  Ghazni 	  1 	  1
+ Bombing 	  June 24, 2011 	  Afghanistan 	  Helmand 	  1 	  1
+ Bombing 	  June 24, 2011 	  Afghanistan 	  Kunduz 	  20 	  9
+ Armed Attack 	  June 24, 2011 	  Thailand 	  Narathiwat 	  3 	  0
+ Bombing 	  June 24, 2011 	  Thailand 	  Narathiwat 	  7 	  0
+ Armed Attack 	  June 24, 2011 	  Indonesia 	  Papua 	  1 	  0
+ Bombing 	  June 24, 2011 	  Burma 	  Mon 	  1 	  0
+ Bombing 	  June 24, 2011 	  Burma 	  Mandalay 	 - 	 -
+ Bombing 	  June 24, 2011 	  Burma 	  Mandalay 	 - 	 -
+ Bombing 	  June 24, 2011 	  Burma 	  Mandalay 	 - 	 -
+ Bombing 	  June 24, 2011 	  Burma 	  Mandalay 	  1 	  0
+ Bombing 	  June 23, 2011 	  Russia 	  Ingushetiya 	  0 	  0
+ Theft 	  June 23, 2011 	  Colombia 	  Narino 	  2 	  1
+ Bombing 	  June 23, 2011 	  Iraq 	  Baghdad 	  4 	  1
+ Armed Attack 	  June 23, 2011 	  Iraq 	  Ninawa 	  1 	  1
+ Bombing 	  June 23, 2011 	  Iraq 	  Diyala 	  0 	  1
+ Bombing 	  June 23, 2011 	  Iraq 	  Al Anbar 	  3 	  2
+ Armed Attack 	  June 23, 2011 	  Iraq 	  Al Anbar 	  0 	  1
+ Bombing 	  June 23, 2011 	  Iraq 	  Kirkuk 	  5 	  0
+ Unknown 	  June 22, 2011 	  Congo, Democratic Republic 	  Nord-Kivu 	  1 	  0
+ Theft 	  June 22, 2011 	  Burundi 	  Cibitoke 	  2 	  2
+ Theft 	  June 22, 2011 	  Yemen 	  Hadramawt 	  4 	  1
+ Armed Attack 	  June 22, 2011 	  Iraq 	  Salah ad Din 	  0 	  2
+ Bombing 	  June 22, 2011 	  Iraq 	  Baghdad 	  0 	  0
+ Bombing 	  June 22, 2011 	  Iraq 	  Baghdad 	  1 	  0
+ Bombing 	  June 22, 2011 	  Iraq 	  Baghdad 	  2 	  0
+ Bombing 	  June 22, 2011 	  Iraq 	  Baghdad 	  2 	  0
+ Bombing 	  June 22, 2011 	  Iraq 	  Baghdad 	  6 	  0
+ Bombing 	  June 22, 2011 	  Iraq 	  Baghdad 	  3 	  0
+ Bombing 	  June 22, 2011 	  Iraq 	  Ninawa 	  1 	  0
+ Bombing 	  June 22, 2011 	  Iraq 	  Ninawa 	  1 	  0
+ Armed Attack 	  June 22, 2011 	  Iraq 	  Ninawa 	  0 	  1
+ Armed Attack 	  June 22, 2011 	  Iraq 	  Ninawa 	  0 	  2
+ Armed Attack 	  June 22, 2011 	  Iraq 	  Diyala 	  0 	  1
+ Kidnapping 	  June 22, 2011 	  Iraq 	  Kirkuk 	  0 	  0
+ Bombing 	  June 22, 2011 	  Iraq 	  Diyala 	  0 	  1
+ Armed Attack 	  June 22, 2011 	  Iraq 	  Al Anbar 	  6 	  0
+ Armed Attack 	  June 22, 2011 	  Iraq 	  Baghdad 	  2 	  0
+ Bombing 	  June 22, 2011 	  Iraq 	  Baghdad 	  0 	  1
+ Bombing 	  June 22, 2011 	  Iraq 	  Al Anbar 	  2 	  1
+ Bombing 	  June 22, 2011 	  Iraq 	  Kirkuk 	  2 	  0
+ Armed Attack 	  June 22, 2011 	  Egypt 	  Shamal Sina' 	  2 	  2
+ Armed Attack 	  June 22, 2011 	  Pakistan 	  Balochistan 	  11 	  4
+ Armed Attack 	  June 20, 2011 	  Yemen 	  Ad Dali' 	 - 	 -
+ Armed Attack 	  June 20, 2011 	  Iraq 	  Kirkuk 	 - 	 -
+ Armed Attack 	  June 20, 2011 	  Iraq 	  Baghdad 	  0 	  1
+ Armed Attack 	  June 20, 2011 	  Iraq 	  Baghdad 	  0 	  1
+ Kidnapping 	  June 20, 2011 	  Iraq 	  Kirkuk 	  0 	  0
+ Bombing 	  June 20, 2011 	  Iraq 	  Baghdad 	  2 	  0
+ Bombing 	  June 20, 2011 	  Iraq 	  Baghdad 	  2 	  0
+ Bombing 	  June 20, 2011 	  Iraq 	  Baghdad 	  0 	  0
+ Bombing 	  June 20, 2011 	  Iraq 	  Baghdad 	  2 	  1
+ Kidnapping 	  June 20, 2011 	  Iraq 	  Kirkuk 	  0 	  0
+ Armed Attack 	  June 20, 2011 	  Iraq 	  Diyala 	  0 	  1
+ Armed Attack 	  June 20, 2011 	  Pakistan 	  Balochistan 	  0 	  0
+ Bombing 	  June 20, 2011 	  Pakistan 	  Sindh 	  6 	  0
+ Bombing 	  June 20, 2011 	  Pakistan 	  Khyber Pakhtunkhwa 	  0 	  1
+ Kidnapping 	  June 20, 2011 	  Pakistan 	  Balochistan 	  0 	  0
+ Armed Attack 	  June 20, 2011 	  Pakistan 	  Federally Administered Tribal Areas 	  0 	  1
+ Bombing 	  June 20, 2011 	  Pakistan 	  Balochistan 	  8 	  1
+ Bombing 	  June 20, 2011 	  Nepal 	  Sunsari 	  1 	  0
+ Bombing 	  June 20, 2011 	  India 	  Jharkhand 	  1 	  1
+ Armed Attack 	  June 20, 2011 	  Afghanistan 	  Kapisa 	  1 	  1
+ Armed Attack 	  June 20, 2011 	  Afghanistan 	  Kandahar 	  0 	  1
+ Bombing 	  June 20, 2011 	  Afghanistan 	  Helmand 	  5 	  0
+ Armed Attack 	  June 20, 2011 	  Afghanistan 	  Wardak 	  11 	  2
+ Bombing 	  June 20, 2011 	  Afghanistan 	  Helmand 	  0 	  0
+ Armed Attack 	  June 20, 2011 	  Afghanistan 	  Badakhshan 	  1 	  0
+ Theft 	  June 20, 2011 	  Thailand 	  Pattani 	  0 	  1
+ Armed Attack 	  June 20, 2011 	  Thailand 	  Pattani 	  1 	  0
+ Armed Attack 	  June 20, 2011 	  Thailand 	  Pattani 	  0 	  1
+ Armed Attack 	  June 20, 2011 	  Thailand 	  Yala 	  0 	  1
+ Theft 	  June 20, 2011 	  Thailand 	  Yala 	  0 	  1
+ Armed Attack 	  June 20, 2011 	  Thailand 	  Pattani 	  0 	  1
+ Theft 	  June 20, 2011 	  Philippines 	  Bukidnon 	 - 	 -
+ Arson/Firebombing 	  June 20, 2011 	  Philippines 	  Compostela Valley 	 - 	 -
+ Arson/Firebombing 	  June 20, 2011 	  Philippines 	  Davao del Norte 	 - 	 -
+ Bombing 	  June 19, 2011 	  Russia 	  Chechnya 	  0 	  0
+ Kidnapping 	  June 19, 2011 	  Somalia 	  Shabeellaha Dhexe 	  0 	  0
+ Bombing 	  June 19, 2011 	  Somalia 	  Mudug 	  0 	  1
+ Armed Attack 	  June 19, 2011 	  Somalia 	  Sool 	  2 	  0
+ Armed Attack 	  June 19, 2011 	  Yemen 	  Shabwah 	  0 	  2
+ Arson/Firebombing 	  June 19, 2011 	  Pakistan 	  Balochistan 	 - 	 -
+ Bombing 	  June 19, 2011 	  Pakistan 	  Khyber Pakhtunkhwa 	 - 	 -
+ Bombing 	  June 19, 2011 	  Pakistan 	  Balochistan 	  2 	  0
+ Armed Attack 	  June 19, 2011 	  Thailand 	  Sara Buri 	  0 	  1
+ Kidnapping 	  June 19, 2011 	  Philippines 	  Negros Occidental 	  0 	  1
+ Kidnapping 	  June 19, 2011 	  Colombia 	  Meta 	  0 	  0
+ Armed Attack 	  June 19, 2011 	  Nigeria 	  Borno 	  5 	  1
+ Kidnapping 	  June 19, 2011 	  Congo, Democratic Republic 	  Nord-Kivu 	  0 	  1
+ Armed Attack 	  June 19, 2011 	  Iraq 	  Ninawa 	  0 	  1
+ Bombing 	  June 19, 2011 	  Iraq 	  Ninawa 	  0 	  2
+ Armed Attack 	  June 19, 2011 	  Iraq 	  Baghdad 	  0 	  1
+ Bombing 	  June 19, 2011 	  Iraq 	  Al Basrah 	  0 	  1
+ Bombing 	  June 19, 2011 	  Iraq 	  Diyala 	  2 	  0
+ Bombing 	  June 19, 2011 	  Iraq 	  Dhi Qar 	  0 	  0
+ Armed Attack 	  June 19, 2011 	  Pakistan 	  Balochistan 	  0 	  1
+ Armed Attack 	  June 19, 2011 	  Afghanistan 	  Kapisa 	  2 	  1
+ Armed Attack 	  June 19, 2011 	  Afghanistan 	  Nangarhar 	  0 	  1
+ Bombing 	  June 19, 2011 	  Afghanistan 	  Ghazni 	 - 	 -
+ Bombing 	  June 19, 2011 	  Afghanistan 	  Kunduz 	  11 	  3
+ Armed Attack 	  June 19, 2011 	  Burma 	  Bago 	 - 	 -
+ Bombing 	  June 18, 2011 	  Colombia 	  Cauca 	  3 	  0
+ Bombing 	  June 18, 2011 	  Colombia 	  Choco 	  1 	  0
+ Bombing 	  June 18, 2011 	  Colombia 	  Antioquia 	  1 	  0
+ Assault 	  June 18, 2011 	  Somalia 	  Bay 	  1 	  0
+ Assault 	  June 18, 2011 	  Somalia 	  Shabeellaha Hoose 	  1 	  0
+ Kidnapping 	  June 18, 2011 	  Somalia 	  Shabeellaha Hoose 	  0 	  0
+ Armed Attack 	  June 18, 2011 	  Somalia 	  Banaadir 	  0 	  2
+ Armed Attack 	  June 18, 2011 	  Nigeria 	  Borno 	  0 	  1
+ Armed Attack 	  June 18, 2011 	  Iraq 	  Al Anbar 	  0 	  1
+ Armed Attack 	  June 18, 2011 	  Iraq 	  Baghdad 	  1 	  0
+ Armed Attack 	  June 18, 2011 	  Iraq 	  Baghdad 	  0 	  1
+ Bombing 	  June 18, 2011 	  Iraq 	  Diyala 	  2 	  0
+ Armed Attack 	  June 18, 2011 	  Iraq 	  Kirkuk 	  0 	  1
+ Bombing 	  June 18, 2011 	  Iraq 	  Al Anbar 	  3 	  1
+ Bombing 	  June 18, 2011 	  Pakistan 	  Balochistan 	 - 	 -
+ Armed Attack 	  June 18, 2011 	  Pakistan 	  Balochistan 	  1 	  0
+ Armed Attack 	  June 18, 2011 	  Pakistan 	  Khyber Pakhtunkhwa 	  0 	  0
+ Bombing 	  June 18, 2011 	  Pakistan 	  Balochistan 	  26 	  1
+ Bombing 	  June 18, 2011 	  Afghanistan 	  Nimroz 	  1 	  0
+ Kidnapping 	  June 18, 2011 	  Afghanistan 	  Zabul 	  0 	  1
+ Kidnapping 	  June 17, 2011 	  Afghanistan 	  Kunar 	  0 	  0
+ Armed Attack 	  June 17, 2011 	  Afghanistan 	  Helmand 	  0 	  1
+ Armed Attack 	  June 17, 2011 	  Afghanistan 	  Baghlan 	  0 	  1
+ Bombing 	  June 17, 2011 	  Afghanistan 	  Wardak 	  0 	  2
+ Bombing 	  June 17, 2011 	  Afghanistan 	  Kabul 	  1 	  0
+ Bombing 	  June 17, 2011 	  Afghanistan 	  Ghazni 	  0 	  5
+ Assault 	  June 17, 2011 	  Afghanistan 	  Farah 	  0 	  2
+ Armed Attack 	  June 16, 2011 	  Russia 	  Dagestan 	 - 	 -
+ Bombing 	  June 16, 2011 	  Colombia 	  Cundinamarca 	  2 	  0
+ Armed Attack 	  June 16, 2011 	  Somalia 	  Unknown 	  0 	  3
+ Kidnapping 	  June 16, 2011 	  Somalia 	  Bay 	  0 	  0
+ Armed Attack 	  June 16, 2011 	  Somalia 	  Mudug 	  0 	  1
+ Assault 	  June 16, 2011 	  Somalia 	  Hiiraan 	  0 	  1
+ Bombing 	  June 16, 2011 	  Nigeria 	  Borno 	  2 	  4
+ Bombing 	  June 16, 2011 	  Nigeria 	  Federal Capital Territory 	  0 	  1
+ Armed Attack 	  June 16, 2011 	  Yemen 	  'Adan 	  0 	  0
+ Armed Attack 	  June 16, 2011 	  Yemen 	  'Adan 	  0 	  0
+ Armed Attack 	  June 16, 2011 	  Yemen 	  Abyan 	  1 	  2
+ Arson/Firebombing 	  June 16, 2011 	  West Bank 	 - 	 - 	 -
+ Bombing 	  June 16, 2011 	  Iraq 	  Baghdad 	  1 	  0
+ Armed Attack 	  June 16, 2011 	  Iraq 	  Baghdad 	  1 	  0
+ Bombing 	  June 16, 2011 	  Iraq 	  Al Anbar 	  3 	  1
+ Armed Attack 	  June 16, 2011 	  Iraq 	  Baghdad 	  1 	  0
+ Armed Attack 	  June 16, 2011 	  Iraq 	  Baghdad 	  1 	  0
+ Armed Attack 	  June 16, 2011 	  Iraq 	  Ninawa 	  0 	  1
+ Armed Attack 	  June 16, 2011 	  Iraq 	  Ninawa 	  0 	  1
+ Assault 	  June 16, 2011 	  Iraq 	  Babil 	  0 	  1
+ Bombing 	  June 16, 2011 	  Iraq 	  Diyala 	  2 	  0
+ Bombing 	  June 16, 2011 	  Iraq 	  Ninawa 	  1 	  0
+ Armed Attack 	  June 16, 2011 	  Israel 	  Southern District 	 - 	 -
+ Armed Attack 	  June 16, 2011 	  Gaza Strip 	 - 	  1 	  0
+ Armed Attack 	  June 16, 2011 	  Pakistan 	  Balochistan 	  1 	  0
+ Bombing 	  June 16, 2011 	  Pakistan 	  Balochistan 	 - 	 -
+ Armed Attack 	  June 16, 2011 	  Pakistan 	  Balochistan 	  0 	  0
+ Armed Attack 	  June 16, 2011 	  Pakistan 	  Balochistan 	  0 	  1
+ Kidnapping 	  June 16, 2011 	  Pakistan 	  Federally Administered Tribal Areas 	  0 	  1
+ Unknown 	  June 16, 2011 	  Pakistan 	  Federally Administered Tribal Areas 	 - 	 -
+ Bombing 	  June 16, 2011 	  India 	  Jharkhand 	 - 	 -
+ Armed Attack 	  June 16, 2011 	  India 	  Bihar 	  0 	  0
+ Bombing 	  June 16, 2011 	  India 	  Bihar 	 - 	 -
+ Unknown 	  June 16, 2011 	  India 	  Bihar 	 - 	 -
+ Kidnapping 	  June 16, 2011 	  India 	  Bihar 	  0 	  0
+ Arson/Firebombing 	  June 16, 2011 	  India 	  Jharkhand 	 - 	 -
+ Bombing 	  June 16, 2011 	  India 	  Jharkhand 	 - 	 -
+ Bombing 	  June 16, 2011 	  India 	  Jharkhand 	 - 	 -
+ Bombing 	  June 16, 2011 	  India 	  Jharkhand 	 - 	 -
+ Kidnapping 	  June 16, 2011 	  India 	  Chhattisgarh 	  0 	  0
+ Barricade/Hostage 	  June 16, 2011 	  Afghanistan 	  Faryab 	  0 	  0
+ Bombing 	  June 16, 2011 	  Afghanistan 	  Samangan 	  0 	  1
+ Bombing 	  June 16, 2011 	  Afghanistan 	  Jowzjan 	  1 	  0
+ Armed Attack 	  June 16, 2011 	  Afghanistan 	  Helmand 	  0 	  1
+ Armed Attack 	  June 16, 2011 	  Afghanistan 	  Jowzjan 	  1 	  0
+ Armed Attack 	  June 16, 2011 	  Afghanistan 	  Nangarhar 	  0 	  2
+ Theft 	  June 16, 2011 	  Thailand 	  Pattani 	  0 	  4
+ Bombing 	  June 16, 2011 	  Thailand 	  Yala 	  1 	  0
+ Bombing 	  June 15, 2011 	  Colombia 	  Antioquia 	 - 	 -
+ Armed Attack 	  June 15, 2011 	  Somalia 	  Hiiraan 	  11 	  7
+ Armed Attack 	  June 15, 2011 	  Yemen 	  Lahij 	  3 	  1
+ Arson/Firebombing 	  June 15, 2011 	  West Bank 	 - 	 - 	 -
+ Armed Attack 	  June 15, 2011 	  Iraq 	  Al Basrah 	  0 	  0
+ Bombing 	  June 15, 2011 	  Iraq 	  Baghdad 	  4 	  0
+ Bombing 	  June 15, 2011 	  Iraq 	  Baghdad 	  2 	  0
+ Bombing 	  June 15, 2011 	  Iraq 	  Babil 	  9 	  1
+ Armed Attack 	  June 15, 2011 	  Pakistan 	  Balochistan 	  1 	  0
+ Assault 	  June 15, 2011 	  India 	  Jharkhand 	  3 	  0
+ Unknown 	  June 15, 2011 	  Afghanistan 	  Nuristan 	  0 	  0
+ Bombing 	  June 15, 2011 	  Afghanistan 	  Kandahar 	  3 	  4
+ Arson/Firebombing 	  June 15, 2011 	  Afghanistan 	  Logar 	 - 	 -
+ Bombing 	  June 15, 2011 	  Afghanistan 	  Paktiya 	  0 	  2
+ Bombing 	  June 15, 2011 	  Afghanistan 	  Kandahar 	  4 	  0
+ Armed Attack 	  June 15, 2011 	  Afghanistan 	  Wardak 	  0 	  0
+ Bombing 	  June 15, 2011 	  Afghanistan 	  Kapisa 	  2 	  2
+ Armed Attack 	  June 14, 2011 	  Russia 	  Dagestan 	  0 	  1
+ Armed Attack 	  June 14, 2011 	  Russia 	  Ingushetiya 	  1 	  0
+ Armed Attack 	  June 14, 2011 	  Russia 	  Dagestan 	  0 	  1
+ Bombing 	  June 14, 2011 	  Colombia 	  Caqueta 	  1 	  2
+ Bombing 	  June 14, 2011 	  Colombia 	  Narino 	  3 	  1
+ Arson/Firebombing 	  June 14, 2011 	  Colombia 	  Tolima 	 - 	 -
+ Theft 	  June 14, 2011 	  Colombia 	  Meta 	  0 	  1
+ Bombing 	  June 14, 2011 	  Colombia 	  Caqueta 	  2 	  0
+ Unknown 	  June 14, 2011 	  Somalia 	  Hiiraan 	  0 	  2
+ Kidnapping 	  June 14, 2011 	  Somalia 	  Jubbada Dhexe 	  0 	  0
+ Armed Attack 	  June 14, 2011 	  Somalia 	  Bari 	  0 	  1
+ Kidnapping 	  June 14, 2011 	  Somalia 	  Galguduud 	  0 	  0
+ Arson/Firebombing 	  June 14, 2011 	  West Bank 	 - 	 - 	 -
+ Armed Attack 	  June 14, 2011 	  Iraq 	  Ninawa 	  0 	  1
+ Armed Attack 	  June 14, 2011 	  Iraq 	  Baghdad 	  0 	  1
+ Kidnapping 	  June 14, 2011 	  Iraq 	  Diyala 	  25 	  1
+ Unknown 	  June 14, 2011 	  Pakistan 	  Balochistan 	  0 	  1
+ Assault 	  June 14, 2011 	  India 	  Chhattisgarh 	  1 	  0
+ Armed Attack 	  June 14, 2011 	  India 	  Manipur 	  0 	  1
+ Armed Attack 	  June 14, 2011 	  Afghanistan 	  Khost 	  0 	  0
+ Bombing 	  June 14, 2011 	  Afghanistan 	  Herat 	  0 	  0
+ Armed Attack 	  June 14, 2011 	  Afghanistan 	  Logar 	  0 	  1
+ Bombing 	  June 14, 2011 	  Afghanistan 	  Wardak 	  1 	  1
+ Armed Attack 	  June 14, 2011 	  Philippines 	  Negros Occidental 	  1 	  0
+ Bombing 	  June 14, 2011 	  Burma 	  Shan 	 - 	 -
+ Bombing 	  June 14, 2011 	  Burma 	  Shan 	 - 	 -
+ Bombing 	  June 14, 2011 	  Burma 	  Kayin 	  2 	  0
+ Armed Attack 	  June 14, 2011 	  Burma 	  Kayin 	  2 	  0
+ Armed Attack 	  June 13, 2011 	  Russia 	  Dagestan 	  0 	  1
+ Kidnapping 	  June 13, 2011 	  Colombia 	  Boyaca 	  0 	  0
+ Armed Attack 	  June 13, 2011 	  Colombia 	  Narino 	  2 	  0
+ Bombing 	  June 13, 2011 	  Colombia 	  Narino 	  0 	  1
+ Armed Attack 	  June 13, 2011 	  Somalia 	  Banaadir 	  2 	  1
+ Assault 	  June 13, 2011 	  Somalia 	  Hiiraan 	  2 	  0
+ Armed Attack 	  June 13, 2011 	  Iraq 	  Kirkuk 	  0 	  1
+ Armed Attack 	  June 13, 2011 	  Iraq 	  Ninawa 	  0 	  2
+ Armed Attack 	  June 13, 2011 	  Iraq 	  Salah ad Din 	  1 	  0
+ Bombing 	  June 13, 2011 	  Iraq 	  Baghdad 	  1 	  0
+ Bombing 	  June 13, 2011 	  Iraq 	  Baghdad 	  2 	  0
+ Bombing 	  June 13, 2011 	  Iraq 	  Babil 	  0 	  1
+ Bombing 	  June 13, 2011 	  Iraq 	  Al Basrah 	  24 	  5
+ Bombing 	  June 13, 2011 	  Pakistan 	  Balochistan 	  2 	  1
+ Armed Attack 	  June 13, 2011 	  Pakistan 	  Balochistan 	  0 	  1
+ Armed Attack 	  June 13, 2011 	  Pakistan 	  Balochistan 	  0 	  1
+ Bombing 	  June 13, 2011 	  Pakistan 	  Federally Administered Tribal Areas 	 - 	 -
+ Bombing 	  June 13, 2011 	  Pakistan 	  Islamabad 	  5 	  0
+ Armed Attack 	  June 13, 2011 	  India 	  Chhattisgarh 	  0 	  0
+ Armed Attack 	  June 13, 2011 	  India 	  Maharashtra 	  0 	  1
+ Armed Attack 	  June 13, 2011 	  Afghanistan 	  Herat 	  0 	  1
+ Bombing 	  June 13, 2011 	  Afghanistan 	  Zabul 	  0 	  0
+ Assault 	  June 13, 2011 	  Afghanistan 	  Faryab 	  0 	  1
+ Armed Attack 	  June 13, 2011 	  Afghanistan 	  Khost 	  0 	  1
+ Bombing 	  June 13, 2011 	  Afghanistan 	  Kandahar 	  1 	  0
+ Armed Attack 	  June 13, 2011 	  Afghanistan 	  Nangarhar 	  2 	  0
+ Armed Attack 	  June 13, 2011 	  Indonesia 	  Sulawesi Tengah 	  0 	  0
+ Unknown 	  June 13, 2011 	  Burma 	  Kachin 	 - 	 -
+ Armed Attack 	  June 12, 2011 	  Russia 	  Ingushetiya 	  2 	  0
+ Armed Attack 	  June 12, 2011 	  Nigeria 	  Borno 	  0 	  4
+ Kidnapping 	  June 12, 2011 	  Nigeria 	  Anambra 	  0 	  0
+ Bombing 	  June 12, 2011 	  Iraq 	  Baghdad 	  1 	  0
+ Bombing 	  June 12, 2011 	  Iraq 	  Ninawa 	  1 	  1
+ Armed Attack 	  June 12, 2011 	  Iraq 	  Diyala 	  4 	  3
+ Bombing 	  June 12, 2011 	  Iraq 	  Ninawa 	  2 	  0
+ Armed Attack 	  June 12, 2011 	  Iraq 	  Babil 	  0 	  1
+ Bombing 	  June 12, 2011 	  Iraq 	  Baghdad 	  14 	  3
+ Armed Attack 	  June 12, 2011 	  Iraq 	  Salah ad Din 	  0 	  1
+ Bombing 	  June 12, 2011 	  Pakistan 	  Islamabad 	  2 	  0
+ Unknown 	  June 12, 2011 	  Afghanistan 	  Uruzgan 	  0 	  1
+ Unknown 	  June 12, 2011 	  Afghanistan 	  Herat 	  0 	  0
+ Armed Attack 	  June 12, 2011 	  Afghanistan 	  Balkh 	  0 	  0
+ Bombing 	  June 12, 2011 	  Afghanistan 	  Kandahar 	  0 	  2
+ Armed Attack 	  June 12, 2011 	  Afghanistan 	  Ghazni 	  0 	  0
+ Bombing 	  June 12, 2011 	  Afghanistan 	  Ghazni 	  2 	  1
+ Armed Attack 	  June 12, 2011 	  Afghanistan 	  Balkh 	  0 	  1
+ Armed Attack 	  June 12, 2011 	  Afghanistan 	  Wardak 	  0 	  0
+ Bombing 	  June 12, 2011 	  Afghanistan 	  Paktiya 	  1 	  0
+ Armed Attack 	  June 11, 2011 	  Russia 	  Ingushetiya 	  2 	  1
+ Armed Attack 	  June 11, 2011 	  Colombia 	  Caqueta 	 - 	 -
+ Bombing 	  June 11, 2011 	  Colombia 	  Tolima 	 - 	 -
+ Barricade/Hostage 	  June 11, 2011 	  Colombia 	  Tolima 	 - 	 -
+ Armed Attack 	  June 11, 2011 	  Colombia 	  Huila 	  1 	  0
+ Armed Attack 	  June 11, 2011 	  Sudan 	  Janub Kurdufan 	  0 	  0
+ Armed Attack 	  June 11, 2011 	  Somalia 	  Shabeellaha Hoose 	  4 	  3
+ Armed Attack 	  June 11, 2011 	  Somalia 	  Banaadir 	  0 	  1
+ Armed Attack 	  June 11, 2011 	  Nigeria 	  Bayelsa 	  0 	  1
+ Armed Attack 	  June 11, 2011 	  Kenya 	  North Eastern Province 	  0 	  4
+ Bombing 	  June 11, 2011 	  Iraq 	  Baghdad 	  3 	  0
+ Bombing 	  June 11, 2011 	  Iraq 	  Baghdad 	  3 	  0
+ Assault 	  June 11, 2011 	  Iraq 	  Al Anbar 	  0 	  1
+ Bombing 	  June 11, 2011 	  Iraq 	  Ninawa 	  29 	  6
+ Bombing 	  June 11, 2011 	  Iraq 	  Baghdad 	  3 	  1
+ Bombing 	  June 11, 2011 	  Pakistan 	  Balochistan 	 - 	 -
+ Bombing 	  June 11, 2011 	  Pakistan 	  Balochistan 	 - 	 -
+ Armed Attack 	  June 11, 2011 	  Pakistan 	  Sindh 	  0 	  1
+ Armed Attack 	  June 11, 2011 	  Pakistan 	  Balochistan 	  0 	  3
+ Bombing 	  June 11, 2011 	  Pakistan 	  Khyber Pakhtunkhwa 	  75 	  32
+ Kidnapping 	  June 11, 2011 	  India 	  Orissa 	  0 	  1
+ Kidnapping 	  June 11, 2011 	  India 	  Bihar 	  0 	  1
+ Unknown 	  June 11, 2011 	  Afghanistan 	  Badghis 	  0 	  0
+ Unknown 	  June 11, 2011 	  Afghanistan 	  Sar-e Pul 	  0 	  0
+ Armed Attack 	  June 11, 2011 	  Afghanistan 	  Faryab 	  0 	  1
+ Bombing 	  June 11, 2011 	  Afghanistan 	  Kunduz 	  6 	  4
+ Unknown 	  June 11, 2011 	  Afghanistan 	  Nangarhar 	  0 	  1
+ Unknown 	  June 11, 2011 	  Afghanistan 	  Nangarhar 	  0 	  1
+ Kidnapping 	  June 11, 2011 	  Afghanistan 	  Nangarhar 	  0 	  1
+ Armed Attack 	  June 11, 2011 	  Afghanistan 	  Logar 	  6 	  0
+ Kidnapping 	  June 11, 2011 	  Afghanistan 	  Kunar 	  0 	  0
+ Armed Attack 	  June 11, 2011 	  Afghanistan 	  Kandahar 	  0 	  1
+ Armed Attack 	  June 11, 2011 	  Afghanistan 	  Kunar 	  4 	  0
+ Bombing 	  June 11, 2011 	  Afghanistan 	  Badghis 	  0 	  0
+ Bombing 	  June 11, 2011 	  Afghanistan 	  Laghman 	  9 	  7
+ Bombing 	  June 11, 2011 	  Afghanistan 	  Kandahar 	  0 	  8
+ Bombing 	  June 11, 2011 	  Afghanistan 	  Ghazni 	  3 	  1
+ Bombing 	  June 11, 2011 	  Afghanistan 	  Khost 	  18 	  2
+ Armed Attack 	  June 11, 2011 	  Thailand 	  Pattani 	  0 	  1
+ Armed Attack 	  June 11, 2011 	  Philippines 	  Masbate 	  0 	  1
+ Kidnapping 	  June 10, 2011 	  Somalia 	  Shabeellaha Hoose 	  0 	  0
+ Kidnapping 	  June 10, 2011 	  Somalia 	  Bay 	  0 	  0
+ Kidnapping 	  June 10, 2011 	  Somalia 	  Bakool 	  0 	  0
+ Arson/Firebombing 	  June 10, 2011 	  West Bank 	 - 	 - 	 -
+ Armed Attack 	  June 10, 2011 	  Cameroon 	  Far North Province 	  0 	  1
+ Bombing 	  June 10, 2011 	  China 	  Tianjin 	  2 	  0
+ Armed Attack 	  June 10, 2011 	  Colombia 	  Cauca 	  2 	  1
+ Bombing 	  June 10, 2011 	  Colombia 	  Tolima 	 - 	 -
+ Near Miss/Non Attack Incident 	  June 10, 2011 	  Colombia 	  Cauca 	  0 	  1
+ Bombing 	  June 10, 2011 	  Somalia 	  Banaadir 	  0 	  1
+ Armed Attack 	  June 10, 2011 	  Congo, Democratic Republic 	  Orientale 	  0 	  3
+ Armed Attack 	  June 10, 2011 	  Iraq 	  Baghdad 	  0 	  0
+ Bombing 	  June 10, 2011 	  Iraq 	  Baghdad 	  2 	  0
+ Bombing 	  June 10, 2011 	  Iraq 	  Baghdad 	  2 	  0
+ Bombing 	  June 10, 2011 	  Iraq 	  Baghdad 	  3 	  0
+ Bombing 	  June 10, 2011 	  Iraq 	  Baghdad 	  20 	  3
+ Armed Attack 	  June 10, 2011 	  Iraq 	  Salah ad Din 	  0 	  1
+ Armed Attack 	  June 10, 2011 	  Iraq 	  Ninawa 	  1 	  1
+ Kidnapping 	  June 10, 2011 	  Pakistan 	  Balochistan 	  0 	  1
+ Bombing 	  June 10, 2011 	  Pakistan 	  Balochistan 	 - 	 -
+ Armed Attack 	  June 10, 2011 	  Pakistan 	  Balochistan 	  1 	  1
+ Bombing 	  June 10, 2011 	  Pakistan 	  Balochistan 	  1 	  0
+ Unknown 	  June 10, 2011 	  Afghanistan 	  Helmand 	  0 	  1
+ Assault 	  June 10, 2011 	  Afghanistan 	  Ghor 	  1 	  0
+ Kidnapping 	  June 10, 2011 	  Afghanistan 	  Kapisa 	  2 	  0
+ Bombing 	  June 10, 2011 	  Afghanistan 	  Laghman 	  5 	  2
+ Bombing 	  June 10, 2011 	  Afghanistan 	  Helmand 	  2 	  2
+ Bombing 	  June 10, 2011 	  Afghanistan 	  Kandahar 	  4 	  0
+ Bombing 	  June 10, 2011 	  Afghanistan 	  Nimroz 	  5 	  0
+ Armed Attack 	  June 10, 2011 	  Afghanistan 	  Sar-e Pul 	  1 	  0
+ Armed Attack 	  June 10, 2011 	  Afghanistan 	  Paktika 	  0 	  1
+ Armed Attack 	  June 10, 2011 	  Afghanistan 	  Logar 	  0 	  0
+ Armed Attack 	  June 10, 2011 	  Afghanistan 	  Nuristan 	  2 	  1
+ Bombing 	  June 10, 2011 	  Afghanistan 	  Zabul 	 - 	 -
+ Armed Attack 	  June 10, 2011 	  Afghanistan 	  Farah 	  0 	  0
+ Bombing 	  June 10, 2011 	  Afghanistan 	  Kunduz 	  14 	  4
+ Bombing 	  June 10, 2011 	  Burma 	  Mandalay 	  3 	  0
+ Bombing 	  June 10, 2011 	  Burma 	  Mandalay 	  2 	  0
+ Bombing 	  June 09, 2011 	  Russia 	  Moskva 	 - 	 -
+ Bombing 	  June 09, 2011 	  China 	  Hunan 	  2 	  1
+ Bombing 	  June 09, 2011 	  Colombia 	  Cauca 	  2 	  0
+ Bombing 	  June 09, 2011 	  Somalia 	  Banaadir 	  0 	  1
+ Armed Attack 	  June 09, 2011 	  Yemen 	  Ibb 	  1 	  0
+ Armed Attack 	  June 09, 2011 	  Iraq 	  Ninawa 	  0 	  1
+ Armed Attack 	  June 09, 2011 	  Iraq 	  Baghdad 	  0 	  1
+ Kidnapping 	  June 09, 2011 	  Iraq 	  Baghdad 	  0 	  1
+ Bombing 	  June 09, 2011 	  Iraq 	  Baghdad 	  2 	  0
+ Bombing 	  June 09, 2011 	  Iraq 	  Baghdad 	  0 	  1
+ Bombing 	  June 09, 2011 	  Iraq 	  Baghdad 	  1 	  0
+ Armed Attack 	  June 09, 2011 	  Iraq 	  Kirkuk 	  0 	  1
+ Bombing 	  June 09, 2011 	  Iraq 	  Kirkuk 	  1 	  0
+ Armed Attack 	  June 09, 2011 	  Iraq 	  Baghdad 	  0 	  1
+ Armed Attack 	  June 09, 2011 	  Iraq 	  Baghdad 	  0 	  1
+ Kidnapping 	  June 09, 2011 	  Pakistan 	  Balochistan 	  0 	  0
+ Kidnapping 	  June 09, 2011 	  Pakistan 	  Balochistan 	  0 	  0
+ Bombing 	  June 09, 2011 	  Pakistan 	  Khyber Pakhtunkhwa 	  0 	  2
+ Bombing 	  June 09, 2011 	  Pakistan 	  Federally Administered Tribal Areas 	  0 	  0
+ Bombing 	  June 09, 2011 	  Pakistan 	  Balochistan 	  2 	  0
+ Bombing 	  June 09, 2011 	  Pakistan 	  Khyber Pakhtunkhwa 	  3 	  4
+ Kidnapping 	  June 09, 2011 	  India 	  Maharashtra 	  0 	  2
+ Bombing 	  June 09, 2011 	  India 	  Chhattisgarh 	  4 	  10
+ Armed Attack 	  June 09, 2011 	  India 	  Chhattisgarh 	  0 	  5
+ Bombing 	  June 09, 2011 	  Afghanistan 	  Helmand 	  6 	  4
+ Unknown 	  June 09, 2011 	  Afghanistan 	  Herat 	  0 	  0
+ Armed Attack 	  June 09, 2011 	  Afghanistan 	  Parwan 	  0 	  0
+ Armed Attack 	  June 09, 2011 	  Afghanistan 	  Kabul 	  0 	  3
+ Bombing 	  June 09, 2011 	  Afghanistan 	  Uruzgan 	  1 	  1
+ Bombing 	  June 09, 2011 	  Afghanistan 	  Zabul 	  1 	  0
+ Bombing 	  June 09, 2011 	  Afghanistan 	  Uruzgan 	  4 	  0
+ Armed Attack 	  June 09, 2011 	  Afghanistan 	  Uruzgan 	  0 	  1
+ Kidnapping 	  June 09, 2011 	  Afghanistan 	  Nangarhar 	  0 	  0
+ Armed Attack 	  June 09, 2011 	  Thailand 	  Yala 	  1 	  1
+ Assault 	  June 08, 2011 	  Russia 	  Moskva 	 - 	 -
+ Armed Attack 	  June 08, 2011 	  Russia 	  Kabardino-Balkariya 	  1 	  0
+ Kidnapping 	  June 08, 2011 	  Colombia 	  Caqueta 	  0 	  0
+ Assault 	  June 08, 2011 	  Somalia 	  Bay 	  1 	  0

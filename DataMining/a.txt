@@ -1,0 +1,902 @@
+400 0 0
+
+1 peacekeeper killed, 1 other wounded in armed attack near Jinaynah, Gharb Darfur, Sudan
+COMPARE
+
+Sudan
+
+Armed Attack
+
+Vehicle
+
+Several clan elders kidnapped by suspected al-Shabaab al-Islamiya in Baardheere, Gedo, Somalia
+COMPARE
+
+Somalia
+
+Kidnapping
+
+
+
+1 oil pipeline damaged in IED attack in Ma'rib, Yemen
+COMPARE
+
+Yemen
+
+Bombing
+
+Energy Infrastructure
+
+1 police officer killed, 1 other wounded in armed attack in Kirkuk, Kirkuk, Iraq
+COMPARE
+
+Iraq
+
+Armed Attack
+
+Vehicle
+
+2 police officers wounded in armed attack in Baghdad, Iraq
+COMPARE
+
+Iraq
+
+Armed Attack
+
+Vehicle
+
+2 government employees, 1 soldier wounded in IED attack in Tikrit, Salah ad Din, Iraq
+COMPARE
+
+Iraq
+
+Bombing
+
+Train/Subway
+
+3 police officers killed in armed attack in Mosul, Ninawa, Iraq
+COMPARE
+
+Iraq
+
+Barricade/Hostage
+
+
+
+1 police officer wounded in armed attack in Kirkuk, Kirkuk, Iraq
+COMPARE
+
+Iraq
+
+Armed Attack
+
+
+
+1 school damaged in IED attack in Matanni, Khyber Pakhtunkhwa, Pakistan
+COMPARE
+
+Pakistan
+
+Bombing
+
+School/Educational
+
+2 civilians killed by suspected CPI-Maoist in Gadchiroli, Maharashtra, India
+COMPARE
+
+India
+
+Unknown
+
+
+
+1 police officer wounded in grenade attack by suspected LT in Kishtwar, Jammu and Kashmir, India
+COMPARE
+
+India
+
+Armed Attack
+
+
+
+2 government officials killed, 2 civilians wounded in armed attack in Dimapur, Nagaland, India
+COMPARE
+
+India
+
+Armed Attack
+
+Residence
+
+Civilians targeted in grenade attack in Imphal West, Manipur, India
+COMPARE
+
+India
+
+Bombing
+
+Residence
+
+5 private security guards killed, 4 others wounded in armed attack in Shahbaz, Ghazni, Afghanistan
+COMPARE
+
+Afghanistan
+
+Armed Attack
+
+Vehicle
+
+2 police officers, 3 civilians wounded in IED attack in Khanabad, Kunduz, Afghanistan
+COMPARE
+
+Afghanistan
+
+Bombing
+
+Vehicle
+
+1 police officer, 1 civilian killed, 3 civilians wounded in armed attack in Khost, Afghanistan
+COMPARE
+
+Afghanistan
+
+Armed Attack
+
+Residence
+
+2 civilians, 4 children killed in IED attack by suspected Taliban in Marjah, Helmand, Afghanistan
+COMPARE
+
+Afghanistan
+
+Bombing
+
+Vehicle
+
+4 vehicles damaged in arson by suspected NPA-CPP in Rosario, Agusan del Sur, Philippines
+COMPARE
+
+Philippines
+
+Arson/Firebombing
+
+Vehicle
+
+1 bank damaged in firebombing by suspected NII in Bandung, Jawa Barat, Indonesia
+COMPARE
+
+Indonesia
+
+Arson/Firebombing
+
+Financial
+
+1 police officer killed, 2 others, 3 civilians wounded in bombing by suspected FARC in Yarumal, Antioquia, Colombia
+COMPARE
+
+Colombia
+
+Bombing
+
+Bus
+
+1 civilian wounded in assault by suspected al-Shabaab al-Islamiya in Beledweyne, Hiiraan, Somalia
+COMPARE
+
+Somalia
+
+Assault
+
+
+
+1 civilian wounded in assault by suspected Ansar al-Shari'ah in Zinjibar, Abyan, Yemen
+COMPARE
+
+Yemen
+
+Assault
+
+
+
+3 police officers killed in armed attack in Wanah, Ninawa, Iraq
+COMPARE
+
+Iraq
+
+Barricade/Hostage
+
+
+
+1 government employee killed, 1 civilian wounded in IED attack in Baghdad, Iraq
+COMPARE
+
+Iraq
+
+Bombing
+
+Vehicle
+
+1 police officer killed, 1 other wounded in IED attack in Al Karmah, Al Anbar, Iraq
+COMPARE
+
+Iraq
+
+Bombing
+
+Vehicle
+
+1 civilian wounded in IED attack in Mosul, Ninawa, Iraq
+COMPARE
+
+Iraq
+
+Bombing
+
+
+
+Police officer targeted in armed attack in Baghdad, Iraq
+COMPARE
+
+Iraq
+
+Armed Attack
+
+
+
+1 government employee killed, 1 civilian wounded in armed attack in Kirkuk, Kirkuk, Iraq
+COMPARE
+
+Iraq
+
+Armed Attack
+
+
+
+2 civilians wounded in IED attack in Baghdad, Iraq
+COMPARE
+
+Iraq
+
+Bombing
+
+
+
+1 police officer, 1 civilian killed, 4 police officers, 2 civilians wounded in IED attack in Baghdad, Iraq
+COMPARE
+
+Iraq
+
+Bombing
+
+Vehicle
+
+1 government employee killed in armed attack in Baghdad, Iraq
+COMPARE
+
+Iraq
+
+Armed Attack
+
+Vehicle
+
+1 police officer wounded in armed attack in Baghdad, Iraq
+COMPARE
+
+Iraq
+
+Armed Attack
+
+
+
+1 government official killed in armed attack in Baghdad, Iraq
+COMPARE
+
+Iraq
+
+Armed Attack
+
+Vehicle
+
+1 police outpost damaged in armed attack by suspected GNLA in Garo Hills, Meghalaya, India
+COMPARE
+
+India
+
+Armed Attack
+
+Police
+
+1 NGO worker killed, 2 others wounded in IED attack in Now Zad, Helmand, Afghanistan
+COMPARE
+
+Afghanistan
+
+Bombing
+
+Vehicle
+
+1 police officer wounded in double IED attack in Kandahar, Kandahar, Afghanistan
+COMPARE
+
+Afghanistan
+
+Bombing
+
+Vehicle
+
+1 government official killed in armed attack in Zharey District, Kandahar, Afghanistan
+COMPARE
+
+Afghanistan
+
+Armed Attack
+
+
+
+1 government official killed in armed attack in Kandahar, Kandahar, Afghanistan
+COMPARE
+
+Afghanistan
+
+Armed Attack
+
+
+
+4 police officers wounded in IED attack in De Kakaro Chinah, Zabul, Afghanistan
+COMPARE
+
+Afghanistan
+
+Bombing
+
+
+
+6 civilians kidnapped in Thanbyuzayat, Mon, Burma
+COMPARE
+
+Burma
+
+Kidnapping
+
+Vehicle
+
+Government office targeted in IED attack by suspected Muslim separatists in Thanbyuzayat, Mon, Burma
+COMPARE
+
+Burma
+
+Bombing
+
+Government
+
+Sports complex damaged by IED attack in Taungoo, Bago, Burma
+COMPARE
+
+Burma
+
+Bombing
+
+Public Place/Retail
+
+3 civilians killed in landmine explosion by suspected AQIM in Mali
+COMPARE
+
+Mali
+
+Bombing
+
+
+
+1 electrical transmission tower damaged in IED attack in Buynakskiy Rayon, Dagestan, Russia
+COMPARE
+
+Russia
+
+Bombing
+
+Energy Infrastructure
+
+Police vehicle targeted in bombing in Agri, Agri, Turkey
+COMPARE
+
+Turkey
+
+Bombing
+
+Vehicle
+
+1 police officer wounded in IED attack in Yuksekova, Hakkari, Turkey
+COMPARE
+
+Turkey
+
+Bombing
+
+Vehicle
+
+Many civilians kidnapped by suspected al-Shabaab al-Islamiya in Kurtunwaarey, Shabeellaha Hoose, Somalia
+COMPARE
+
+Somalia
+
+Kidnapping
+
+
+
+2 children killed, 1 person wounded by suspected al-Shabaab al-Islamiya in Kurtunwaarey, Shabeellaha Hoose, Somalia
+COMPARE
+
+Somalia
+
+Unknown
+
+
+
+1 civilian wounded in IED attack in Ba'qubah, Diyala, Iraq
+COMPARE
+
+Iraq
+
+Bombing
+
+
+
+1 civilian killed in armed attack in Jalula', Diyala, Iraq
+COMPARE
+
+Iraq
+
+Armed Attack
+
+
+
+1 civilian, 1 government employee wounded in armed attack in Kirkuk, Kirkuk, Iraq
+COMPARE
+
+Iraq
+
+Armed Attack
+
+Vehicle
+
+1 paramilitary member killed, 1 civilian wounded in IED attack in Abu Ghurayb, Al Anbar, Iraq
+COMPARE
+
+Iraq
+
+Bombing
+
+
+
+1 government official, 1 bodyguard wounded in IED attack in Ba'qubah, Diyala, Iraq
+COMPARE
+
+Iraq
+
+Bombing
+
+Vehicle
+
+1 political affiliate killed, 5 civilians wounded in armed attack in Surab, Balochistan, Pakistan
+COMPARE
+
+Pakistan
+
+Armed Attack
+
+Vehicle
+
+1 child killed, 3 civilians wounded in mortar attack in Dir, Khyber Pakhtunkhwa, Pakistan
+COMPARE
+
+Pakistan
+
+Armed Attack
+
+Residence
+
+2 supply trucks damaged in armed attack in Bolan, Balochistan, Pakistan
+COMPARE
+
+Pakistan
+
+Armed Attack
+
+Vehicle
+
+1 civilian killed in armed attack by suspected CPI-Maoist in Giridih, Jharkhand, India
+COMPARE
+
+India
+
+Armed Attack
+
+
+
+3 civilians kidnapped in Khugiani District, Nangarhar, Afghanistan
+COMPARE
+
+Afghanistan
+
+Kidnapping
+
+
+
+Civilian targeted in armed attack in Shakh, Faryab, Afghanistan
+COMPARE
+
+Afghanistan
+
+Armed Attack
+
+Vehicle
+
+1 police officer, 1 civilian killed in IED attack in Panjva'i, Kandahar, Afghanistan
+COMPARE
+
+Afghanistan
+
+Bombing
+
+
+
+1 school damaged in arson in Nangarhar, Afghanistan
+COMPARE
+
+Afghanistan
+
+Arson/Firebombing
+
+School/Educational
+
+1 school damaged in arson in Ghazni, Afghanistan
+COMPARE
+
+Afghanistan
+
+Arson/Firebombing
+
+School/Educational
+
+1 civilian wounded in IED attack in Kandahar, Kandahar, Afghanistan
+COMPARE
+
+Afghanistan
+
+Bombing
+
+
+
+1 government employee wounded in armed attack in Tarin Kot District, Uruzgan, Afghanistan
+COMPARE
+
+Afghanistan
+
+Armed Attack
+
+
+
+3 police officers wounded in IED attack in Khas Uruzgan District, Uruzgan, Afghanistan
+COMPARE
+
+Afghanistan
+
+Bombing
+
+
+
+11 civilians, 2 police officers killed, 13 civilians, 5 police officers, 2 soldiers wounded in armed and suicide IED attacks by Taliban in Kabul, Kabul, Afghanistan
+COMPARE
+
+Afghanistan
+
+Bombing
+
+Residence
+
+8 civilians kidnapped by suspected al-Shabaab al-Islamiya in Awdheegle, Shabeellaha Hoose, Somalia
+COMPARE
+
+Somalia
+
+Kidnapping
+
+
+
+2 children killed, 3 government employees wounded in VBIED attack by suspected Boko Haram in Maiduguri, Borno, Nigeria
+COMPARE
+
+Nigeria
+
+Bombing
+
+Government
+
+1 paramilitary member wounded in armed attack in Ba'qubah, Diyala, Iraq
+COMPARE
+
+Iraq
+
+Armed Attack
+
+
+
+1 civilian killed, 1 other wounded in armed attack in Ba'qubah, Diyala, Iraq
+COMPARE
+
+Iraq
+
+Armed Attack
+
+
+
+1 civilian killed in armed attack in Mosul, Ninawa, Iraq
+COMPARE
+
+Iraq
+
+Armed Attack
+
+Vehicle
+
+3 government employees killed, 4 police officers wounded in VBIED attack in Mosul, Ninawa, Iraq
+COMPARE
+
+Iraq
+
+Bombing
+
+Public Place/Retail
+
+3 civilians wounded in IED attack in Ba'qubah, Diyala, Iraq
+COMPARE
+
+Iraq
+
+Bombing
+
+
+
+1 oil pipeline damaged in IED attack in Al Jizah, Al Jizah, Egypt
+COMPARE
+
+Egypt
+
+Bombing
+
+Energy Infrastructure
+
+1 school damaged in IED attack in Charsadda, Khyber Pakhtunkhwa, Pakistan
+COMPARE
+
+Pakistan
+
+Bombing
+
+School/Educational
+
+1 school damaged in IED attack in Bara, Federally Administered Tribal Areas, Pakistan
+COMPARE
+
+Pakistan
+
+Bombing
+
+School/Educational
+
+1 NATO fuel tanker damaged in arson in Nowshera, Khyber Pakhtunkhwa, Pakistan
+COMPARE
+
+Pakistan
+
+Arson/Firebombing
+
+Energy Infrastructure
+
+1 civilian killed, 19 others wounded in grenade attack in Karachi, Sindh, Pakistan
+COMPARE
+
+Pakistan
+
+Armed Attack
+
+Hotel
+
+1 contractor wounded in armed attack in Mastung, Balochistan, Pakistan
+COMPARE
+
+Pakistan
+
+Armed Attack
+
+Energy Infrastructure
+
+2 civilians wounded in assault by suspected USRA in Bishnupur, Manipur, India
+COMPARE
+
+India
+
+Assault
+
+Vehicle
+
+1 government employee killed in armed attack in Gandarbal, Jammu and Kashmir, India
+COMPARE
+
+India
+
+Armed Attack
+
+
+
+2 vehicles damaged in arson by suspected CPI-Maoist in Giridih, Jharkhand, India
+COMPARE
+
+India
+
+Arson/Firebombing
+
+Vehicle
+
+1 soldier, 1 person kidnapped in Spando Kats, Logar, Afghanistan
+COMPARE
+
+Afghanistan
+
+Kidnapping
+
+
+
+4 civilians, 2 children killed, 2 civilians wounded in IED attack by suspected Taliban in Ghazni, Afghanistan
+COMPARE
+
+Afghanistan
+
+Bombing
+
+Bus
+
+1 teacher killed in armed attack in Khost, Afghanistan
+COMPARE
+
+Afghanistan
+
+Armed Attack
+
+
+
+2 civilians, 2 children killed, 1 police officer wounded in armed attack in Jowzjan, Afghanistan
+COMPARE
+
+Afghanistan
+
+Armed Attack
+
+
+
+3 civilians killed in IED attack in Ghazni District, Ghazni, Afghanistan
+COMPARE
+
+Afghanistan
+
+Bombing
+
+Vehicle
+
+2 civilians, 2 children killed in IED attack in Qareh Bagh, Ghazni, Afghanistan
+COMPARE
+
+Afghanistan
+
+Bombing
+
+Vehicle
+
+Government building damaged in IED attack by suspected BIFF in Kidapawan, Cotabato, Philippines
+COMPARE
+
+Philippines
+
+Bombing
+
+Government
+
+1 road damaged in VBIED attack in Buynakskiy Rayon, Dagestan, Russia
+COMPARE
+
+Russia
+
+Bombing
+
+Police
+
+2 civilians killed in assault by suspected al-Shabaab al-Islamiya near Boosaaso, Bari, Somalia
+COMPARE
+
+Somalia
+
+Assault
+
+
+
+10 civilians kidnapped by al-Shabaab al-Islamiya in Kismaayo, Jubbada Hoose, Somalia
+COMPARE
+
+Somalia
+
+Kidnapping
+
+
+
+1 police officer killed in armed attack in Gaalkacyo, Mudug, Somalia
+COMPARE
+
+Somalia
+
+Armed Attack
+
+
+
+1 gas pipeline damaged in IED attack in Charsadda, Khyber Pakhtunkhwa, Pakistan
+COMPARE
+
+Pakistan
+
+Bombing
+
+Energy Infrastructure
+
+1 bank damaged in arson in Athens, Attiki, Greece
+COMPARE
+
+Greece
+
+Arson/Firebombing
+
+Financial
+
+25 civilians killed, 30 others wounded in armed attack and bombing by Boko Haram in Maiduguri, Borno, Nigeria
+COMPARE
+
+Nigeria
+
+Bombing
+
+Public Place/Retail
+
+Oil refinery targeted in rocket attack in Al Basrah, Al Basrah, Iraq
+COMPARE
+
+Iraq
+
+Armed Attack
+
+Energy Infrastructure
+
+1 government employee killed in IED attack in Sulayman Beg, Salah ad Din, Iraq
+COMPARE
+
+Iraq
+
+Bombing
+
+Vehicle
+
+3 police officers, 1 civilian killed, 9 police officers, 8 civilians wounded in suicide IED attack in Baghdad, Iraq
+COMPARE
+
+Iraq
+
+Bombing
+
+Police
+
+2 security guards, 2 civilians wounded in an VBIED attack in Ar Riyad, Kirkuk, Iraq
+COMPARE
+
+Iraq
+
+Bombing
+
+Vehicle
+

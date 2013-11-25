@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+  <head>
+  	<link rel="stylesheet" href="style.css" type="text/css" media="all">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <h1><center>The Terrorist Dataset</center></h1>
+  	<style>
+      #map_canvas {
+        width: 840px;
+        height: 500px;
+        background-color: #CCC;
+        position:absolute; top: 140px; left: 480px;
+      }
+      #result
+      {
+        position:absolute;
+        border:2px solid #a1a1a1;
+        padding:10px 40px; 
+        background:#dddddd;
+        top:140px;
+        left:40px;
+        width:300px;
+        height:300px;
+        border-radius:25px;
+      }
+      #subresult
+      {
+        position:absolute;
+        border:2px solid #a1a1a1;
+        padding:10px 40px; 
+        background:#dddddd;
+        top:480px;
+        left:40px;
+        width:300px;
+        height:140px;
+        border-radius:25px;
+      }
+      #loadingImage
+      {
+        position:absolute;
+        top:200px;
+        left:200px;
+      }
+      #loadingImage2
+      {
+        position:absolute;
+        top:500px;
+        left:200px;
+      }
+      #clearer
+      {
+        position:absolute;
+        left:1200px;
+      }
+    </style>
+    <script src="https://maps.googleapis.com/maps/api/js?sensor=false&libraries=visualization">
+	</script>
+    <script>
+       var map;
+      function initialize() {
+        var mapOptions = {
+          zoom: 5,
+          center: new google.maps.LatLng(2.8,-187.3),
+          mapTypeId: google.maps.MapTypeId.TERRAIN
+        };
+        map = new google.maps.Map(document.getElementById('map_canvas'),
+              mapOptions);
+
+        // Create a <script> tag and set the USGS URL as the source.
+        var script = document.createElement('script');
+        // (In this example we use a locally stored copy instead.)
+        //script.src = 'http://earthquake.usgs.gov/earthquakes/feed/geojsonp/2.5/week';
+        //script.src = 'earthquake_GeoJSONP';
+        script.src = 'geojson';
+        document.getElementsByTagName('head')[0].appendChild(script);
+      }
+  
+      // Loop through the results array and place a marker for each
+      // set of coordinates.
+      window.eqfeed_callback = function(results) {
+        for (var i = 0; i < results.features.length; i++) {
+          var coords = results.features[i].geometry.coordinates;
+          var latLng = new google.maps.LatLng(coords[1],coords[0]);
+          var marker = new google.maps.Marker({
+            position: latLng,
+            map: map
+          });
+        }
+      }
+
+    </script>
+  </head>
+  <body onload="initialize()">
+  	<div id="map_canvas"></div>
+    <div id="result" style="white-space: pre-line"></div>
+    <div id="subresult" style="white-space: pre-line"></div>
+  <form method="post">
+    <input type="button" name="submit" value="Clear" id="clearer">
+</form>
+   <div class="example">
+        <ul id="nav">
+           <li><a href="#">Event</a>
+                <div>
+                    <ul id='event'>
+                        <li><a href="#">Armed-Attack</a></li>
+                        <li><a href="#">Bombing</a></li>
+                        <li><a href="#">Kidnapping</a></li>
+                        <li><a href="#">Arson/Firebombing</a></li>
+                        <li><a href="#">Unknown</a></li>
+                        <li><a href="#">Assault</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li><a href="#">Country</a>
+                <div>
+                    <ul id='country'>
+                        <li><a href="#">Afghanistan</a></li>
+                        <li><a href="#">Iraq</a></li>
+                        <li><a href="#">Pakistan</a></li>
+                        <li><a href="#">India</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li><a href="#">Year</a>
+                <div>
+                    <ul id='year'>
+                        <li><a href="#">2011</a></li>
+                        <li><a href="#">2010</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="pad"></li>
+        </ul>
+    </div>
+     <script src="jquery-1.10.2.min.js"></script>
+    <script>
+   $('#event li').click(function() {
+        $("#loadingImage").show();
+        $("#loadingImage2").show();
+        var text = $(this).text();
+        //alert('text is ' + text);
+        $.post("A.php", { text: text }, function(return_data, txtStatus, jqXHR) {
+    $('#result').html(return_data);
+    $("#loadingImage").hide();
+});
+       $.post("F.php", { text: text }, function(return_data, txtStatus, jqXHR) {
+    $('#subresult').html(return_data);
+    initialize();
+    $("#loadingImage2").hide();
+});
+      event.preventDefault() ;
+      });
+   $('#country li').click(function() {
+        $("#loadingImage").show();
+        $("#loadingImage2").show();
+        var text = $(this).text();
+        //alert('text is ' + text);
+        $.post("E.php", { text: text }, function(return_data, txtStatus, jqXHR) {
+    $('#result').html(return_data);
+    $("#loadingImage").hide();
+  });
+        $.post("D.php", { text: text }, function(return_data, txtStatus, jqXHR) {
+    $('#subresult').html(return_data);
+    initialize();
+    $("#loadingImage2").hide();
+});
+      event.preventDefault() ;
+      });
+    $('#year li').click(function() {
+      $("#loadingImage").show();
+      $("#loadingImage2").show();
+        var text = $(this).text();
+        //alert('text is ' + text);
+        $.post("B.php", { text: text }, function(return_data, txtStatus, jqXHR) {
+    $('#result').html(return_data);
+    $("#loadingImage").hide();
+});
+        $.post("C.php", { text: text }, function(return_data, txtStatus, jqXHR) {
+    $('#subresult').html(return_data);
+    initialize();
+    $("#loadingImage2").hide();
+});
+      event.preventDefault() ;
+      });
+    </script>
+    <script>
+    $('#clearer').click(function(){
+  $.ajax({url: 'mkdir.php'});
+  return false;
+})
+    </script>
+    <img src="ajax-loader.gif" id="loadingImage" style="display: none;" />
+    <img src="ajax-loader.gif" id="loadingImage2" style="display: none;" />
+  </body>
+</html>
+
+<!--html>
+<body>
+<form name="myform" action="./cgi-bin/search.php" method="POST">
+Enter your search query: 
+<br  />
+<input name="fname" type="text"  />
+<br  />
+<input type="submit" value="submit">
+</form>
+</body>
+</html-->
+<!--html>
+<head>
+	<link rel="stylesheet" type="text/css" href="mystyle.css">
+</head>
+<body>
+	<center>	
+	<form name="myform" action="./cgi-bin/join.py" method="POST">
+	<input type="submit" />
+	</center>
+</body>
+</html-->
+

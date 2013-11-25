@@ -1,0 +1,72 @@
+Afghanistan 	  Faryab 	36.25,64.83333	Armed Attack	0
+Afghanistan 	  Ghazni 	33.55391,68.42096	Armed Attack	9
+Afghanistan 	  Ghazni 	33.55391,68.42096	Arson/Firebombing	0
+Afghanistan 	  Ghazni 	33.55391,68.42096	Bombing	7
+Afghanistan 	  Helmand 	31.0,64.0	Bombing	5
+Afghanistan 	  Jowzjan 	36.83333,65.83333	Armed Attack	1
+Afghanistan 	  Kabul 	34.52813,69.17233	Bombing	0
+Afghanistan 	  Kandahar 	31.61332,65.71013	Armed Attack	2
+Afghanistan 	  Kandahar 	31.61332,65.71013	Bombing	2
+Afghanistan 	  Khost 	33.33951,69.92041	Armed Attack	5
+Afghanistan 	  Kunduz 	36.72896,68.857	Bombing	3
+Afghanistan 	  Logar 	34.0,69.25	Kidnapping	0
+Afghanistan 	  Nangarhar 	34.42647,70.45153	Arson/Firebombing	0
+Afghanistan 	  Nangarhar 	34.42647,70.45153	Kidnapping	0
+Afghanistan 	  Uruzgan 	32.83333,66.0	Armed Attack	1
+Afghanistan 	  Uruzgan 	32.83333,66.0	Bombing	3
+Afghanistan 	  Zabul 	32.25,67.25	Bombing	4
+Burma 	  Bago 	17.33521,96.48135	Bombing	0
+Burma 	  Mon 	16.49051,97.62825	Bombing	0
+Burma 	  Mon 	16.49051,97.62825	Kidnapping	0
+Colombia 	  Antioquia 	6.25184,-75.56359	Bombing	3
+Egypt 	  Al Jizah 	30.00808,31.21093	Bombing	0
+Gaza Strip 	 - 	31.5,34.46667	Bombing	1
+Greece 	  Attiki 	37.94745,23.63708	Arson/Firebombing	0
+India 	  Chhattisgarh 	21.5,82.0	Bombing	7
+India 	  Jammu and Kashmir 	32.73569,74.86911	Armed Attack	2
+India 	  Jharkhand 	23.75,85.5	Armed Attack	1
+India 	  Jharkhand 	23.75,85.5	Arson/Firebombing	0
+India 	  Maharashtra 	19.5,75.0	Unknown	2
+India 	  Manipur 	25.0,94.0	Assault	2
+India 	  Manipur 	25.0,94.0	Bombing	0
+India 	  Meghalaya 	25.5,91.33333	Armed Attack	0
+India 	  Nagaland 	26.0,94.25	Armed Attack	2
+Indonesia 	  Jawa Barat 	-6.17806,106.63	Arson/Firebombing	0
+Iraq 	  Al Anbar 	33.42056,43.30778	Bombing	3
+Iraq 	  Al Basrah 	30.53302,47.79747	Armed Attack	0
+Iraq 	  Babil 	32.66667,44.58333	Bombing	7
+Iraq 	  Baghdad 	33.34058,44.40088	Armed Attack	5
+Iraq 	  Baghdad 	33.34058,44.40088	Bombing	20
+Iraq 	  Diyala 	34.0,45.0	Armed Attack	4
+Iraq 	  Diyala 	34.0,45.0	Bombing	5
+Iraq 	  Kirkuk 	35.46806,44.39222	Armed Attack	5
+Iraq 	  Kirkuk 	35.46806,44.39222	Bombing	2
+Iraq 	  Ninawa 	36.33091,43.09065	Armed Attack	1
+Iraq 	  Ninawa 	36.33091,43.09065	Barricade/Hostage	6
+Iraq 	  Ninawa 	36.33091,43.09065	Bombing	5
+Iraq 	  Salah ad Din 	34.5,43.65	Bombing	2
+Mali 	  Unknown 	18.0,-2.0	Bombing	0
+Nepal 	  Banke 	28.03333,81.61667	Assault	1
+Nigeria 	  Borno 	11.84644,13.16027	Bombing	58
+Pakistan 	  Balochistan 	28.47849,65.64355	Armed Attack	1
+Pakistan 	  Balochistan 	28.47849,65.64355er Pakhtunkhwa	Armed Attack	1
+Pakistan 	  Federally Administered Tribal Areas 	33.01455,69.99925	Bombing	0
+Pakistan 	  Khyber Pakhtunkhwa 	34.008,71.57849	Arson/Firebombing	0
+Pakistan 	  Khyber Pakhtunkhwa 	34.008,71.57849	Bombing	0
+Pakistan 	  Punjab 	30.19556,71.47528	Bombing	3
+Pakistan 	  Sindh 	24.9056,67.0822	Armed Attack	20
+Philippines 	  Agusan del Sur 	8.5,125.83333	Arson/Firebombing	0
+Philippines 	  Cotabato 	7.16083,124.475	Bombing	0
+Russia 	  Dagestan 	43.0,47.0	Bombing	0
+Somalia 	  Bari 	11.28421,49.18158	Assault	2
+Somalia 	  Gedo 	3.0,42.0	Kidnapping	0
+Somalia 	  Hiiraan 	4.0,45.5	Assault	1
+Somalia 	  Jubbada Hoose 	-0.35817,42.54536	Kidnapping	0
+Somalia 	  Mudug 	6.76972,47.43083	Armed Attack	1
+Somalia 	  Shabeellaha Hoose 	1.83333,44.41667	Kidnapping	0
+Somalia 	  Shabeellaha Hoose 	1.83333,44.41667	Unknown	1
+Sudan 	  Gharb Darfur 	13.41667,22.66667	Armed Attack	2
+Turkey 	  Agri 	39.71944,43.05139	Bombing	0
+Turkey 	  Hakkari 	37.58333,44.16667	Bombing	1
+Yemen 	  Abyan 	13.6291,46.126	Assault	1
+Yemen 	  Ma'rib 	15.46253,45.32581	Bombing	0

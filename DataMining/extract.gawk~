@@ -1,0 +1,25 @@
+#!/usr/bin/awk -f
+
+BEGIN       {
+            recno = 1;
+            event= "-"; date="-";country = "-"; wounded= "-";
+            dead= "-"; 
+            }
+/Event Type/{
+            if(recno > 1)
+                {
+                print event, "\t", date, "\t", country, "\t",
+                    wounded,"\t",dead;
+                }
+            recno++;
+            date = "-"; country= "-"; 
+            wounded= "-"; dead= "-"; 
+            event = "";
+            for(fn = 3; fn <= NF; fn++) event = event " " $fn;
+            }
+/Date/  { date = ""; for(fn = 3; fn <= NF; fn++) date = date " " $fn; }
+
+/Country/  { country = ""; for(fn = 2; fn <= NF; fn++) country = country " " $fn; }
+
+/Wounded Count/  { wounded = ""; for(fn = 3; fn <= NF; fn++) wounded = wounded " " $fn; }
+/Dead Count/  { dead = ""; for(fn = 3; fn <= NF; fn++) dead = dead " " $fn; }

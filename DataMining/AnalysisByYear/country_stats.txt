@@ -1,0 +1,851 @@
+Afghanistan;;17.570692,-3.996166;Kidnapping	3
+Afghanistan;Badakhshan;36.43194,71.83;Armed-Attack	1
+Afghanistan;Badakhshan;36.43194,71.83;Assault	1
+Afghanistan;Badakhshan;36.43194,71.83;Bombing	0
+Afghanistan;Badakhshan;36.43194,71.83;Kidnapping	0
+Afghanistan;Badakhshan;36.43194,71.83;Unknown	0
+Afghanistan;Badghis;35.0,63.75;Armed-Attack	2
+Afghanistan;Badghis;35.0,63.75;Bombing	22
+Afghanistan;Badghis;35.0,63.75;Kidnapping	1
+Afghanistan;Badghis;35.0,63.75;Unknown	2
+Afghanistan;Baghlan;36.13068,68.70829;Armed-Attack	17
+Afghanistan;Baghlan;36.13068,68.70829;Arson/Firebombing	0
+Afghanistan;Baghlan;36.13068,68.70829;Bombing	10
+Afghanistan;Baghlan;36.13068,68.70829;Kidnapping	0
+Afghanistan;Baghlan;36.13068,68.70829;Unknown	9
+Afghanistan;Balkh;36.75635,66.8972;Armed-Attack	11
+Afghanistan;Balkh;36.75635,66.8972;Arson/Firebombing	0
+Afghanistan;Balkh;36.75635,66.8972;Assault	2
+Afghanistan;Balkh;36.75635,66.8972;Bombing	18
+Afghanistan;Balkh;36.75635,66.8972;Kidnapping	0
+Afghanistan;Balkh;36.75635,66.8972;Unknown	2
+Afghanistan;Bamyan;34.9073296,67.1894488;Assault	56
+Afghanistan;Bamyan;34.9073296,67.1894488;Bombing	3
+Afghanistan;Daykundi;33.75,66.25;Armed-Attack	2
+Afghanistan;Daykundi;33.75,66.25;Bombing	0
+Afghanistan;Daykundi;33.75,66.25;Kidnapping	0
+Afghanistan;Daykundi;33.75,66.25;Unknown	0
+Afghanistan;Farah;32.5,62.5;Armed-Attack	23
+Afghanistan;Farah;32.5,62.5;Assault	12
+Afghanistan;Farah;32.5,62.5;Bombing	28
+Afghanistan;Farah;32.5,62.5;Kidnapping	3
+Afghanistan;Farah;32.5,62.5;Theft	0
+Afghanistan;Farah;32.5,62.5;Unknown	1
+Afghanistan;Faryab;36.25,64.83333;Armed-Attack	12
+Afghanistan;Faryab;36.25,64.83333;Arson/Firebombing	0
+Afghanistan;Faryab;36.25,64.83333;Assault	1
+Afghanistan;Faryab;36.25,64.83333;Barricade/Hostage	0
+Afghanistan;Faryab;36.25,64.83333;Bombing	52
+Afghanistan;Faryab;36.25,64.83333;Kidnapping	0
+Afghanistan;Faryab;36.25,64.83333;Unknown	5
+Afghanistan;Ghazni;33.55391,68.42096;Armed-Attack	65
+Afghanistan;Ghazni;33.55391,68.42096;Arson/Firebombing	0
+Afghanistan;Ghazni;33.55391,68.42096;Bombing	88
+Afghanistan;Ghazni;33.55391,68.42096;Kidnapping	1
+Afghanistan;Ghazni;33.55391,68.42096;Near Miss/Non Attack Incident	0
+Afghanistan;Ghazni;33.55391,68.42096;Unknown	10
+Afghanistan;Ghor;34.0995776,64.905955;Armed-Attack	6
+Afghanistan;Ghor;34.0995776,64.905955;Arson/Firebombing	0
+Afghanistan;Ghor;34.0995776,64.905955;Assault	2
+Afghanistan;Ghor;34.0995776,64.905955;Bombing	2
+Afghanistan;Ghor;34.0995776,64.905955;Kidnapping	2
+Afghanistan;Ghor;34.0995776,64.905955;Theft	0
+Afghanistan;Ghor;34.0995776,64.905955;Unknown	0
+Afghanistan;Helmand;31.0,64.0;Armed-Attack	37
+Afghanistan;Helmand;31.0,64.0;Assault	1
+Afghanistan;Helmand;31.0,64.0;Bombing	106
+Afghanistan;Helmand;31.0,64.0;Kidnapping	17
+Afghanistan;Helmand;31.0,64.0;Unknown	6
+Afghanistan;Herat;34.34817,62.19967;Armed-Attack	14
+Afghanistan;Herat;34.34817,62.19967;Arson/Firebombing	0
+Afghanistan;Herat;34.34817,62.19967;Bombing	80
+Afghanistan;Herat;34.34817,62.19967;Kidnapping	6
+Afghanistan;Herat;34.34817,62.19967;Unknown	9
+Afghanistan;IED attack Nangarhar;34.1718313,70.6216794;Bombing	0
+Afghanistan;Jowzjan;36.8969692,65.6658568;Armed-Attack	9
+Afghanistan;Jowzjan;36.8969692,65.6658568;Arson/Firebombing	0
+Afghanistan;Jowzjan;36.8969692,65.6658568;Barricade/Hostage	0
+Afghanistan;Jowzjan;36.8969692,65.6658568;Bombing	21
+Afghanistan;Jowzjan;36.8969692,65.6658568;Kidnapping	3
+Afghanistan;Jowzjan;36.8969692,65.6658568;Unknown	6
+Afghanistan;Kabul;34.528455,69.1717029;Armed-Attack	5
+Afghanistan;Kabul;34.528455,69.1717029;Assault	1
+Afghanistan;Kabul;34.528455,69.1717029;Bombing	107
+Afghanistan;Kabul;34.528455,69.1717029;Unknown	1
+Afghanistan;Kandahar;31.61332,65.71013;Armed-Attack	60
+Afghanistan;Kandahar;31.61332,65.71013;Assault	1
+Afghanistan;Kandahar;31.61332,65.71013;Bombing	276
+Afghanistan;Kandahar;31.61332,65.71013;Kidnapping	3
+Afghanistan;Kandahar;31.61332,65.71013;Unknown	13
+Afghanistan;Kapisa;34.9810572,69.6214562;Armed-Attack	8
+Afghanistan;Kapisa;34.9810572,69.6214562;Bombing	38
+Afghanistan;Kapisa;34.9810572,69.6214562;Kidnapping	3
+Afghanistan;Kapisa;34.9810572,69.6214562;Unknown	1
+Afghanistan;Khost;33.3344499,69.920151;Armed-Attack	21
+Afghanistan;Khost;33.3344499,69.920151;Arson/Firebombing	1
+Afghanistan;Khost;33.3344499,69.920151;Assault	4
+Afghanistan;Khost;33.3344499,69.920151;Bombing	127
+Afghanistan;Khost;33.3344499,69.920151;Kidnapping	0
+Afghanistan;Khost;33.3344499,69.920151;Unknown	5
+Afghanistan;Kunar;34.95,71.13333;Armed-Attack	32
+Afghanistan;Kunar;34.95,71.13333;Arson/Firebombing	0
+Afghanistan;Kunar;34.95,71.13333;Barricade/Hostage	0
+Afghanistan;Kunar;34.95,71.13333;Bombing	19
+Afghanistan;Kunar;34.95,71.13333;Hijacking	0
+Afghanistan;Kunar;34.95,71.13333;Kidnapping	1
+Afghanistan;Kunar;34.95,71.13333;Unknown	5
+Afghanistan;Kunduz;36.72896,68.857;Armed-Attack	6
+Afghanistan;Kunduz;36.72896,68.857;Arson/Firebombing	0
+Afghanistan;Kunduz;36.72896,68.857;Bombing	169
+Afghanistan;Kunduz;36.72896,68.857;Unknown	15
+Afghanistan;Laghman;34.78333,70.18333;Armed-Attack	10
+Afghanistan;Laghman;34.78333,70.18333;Arson/Firebombing	0
+Afghanistan;Laghman;34.78333,70.18333;Bombing	69
+Afghanistan;Laghman;34.78333,70.18333;Kidnapping	0
+Afghanistan;Laghman;34.78333,70.18333;Unknown	0
+Afghanistan;Logar;34.0,69.25;Armed-Attack	32
+Afghanistan;Logar;34.0,69.25;Arson/Firebombing	0
+Afghanistan;Logar;34.0,69.25;Bombing	84
+Afghanistan;Logar;34.0,69.25;Kidnapping	2
+Afghanistan;Logar;34.0,69.25;Unknown	8
+Afghanistan;Nangarhar;34.42647,70.45153;Armed-Attack	48
+Afghanistan;Nangarhar;34.42647,70.45153;Arson/Firebombing	0
+Afghanistan;Nangarhar;34.42647,70.45153;Assault	2
+Afghanistan;Nangarhar;34.42647,70.45153;Bombing	144
+Afghanistan;Nangarhar;34.42647,70.45153;Kidnapping	5
+Afghanistan;Nangarhar;34.42647,70.45153;Unknown	2
+Afghanistan;Nimroz;31.0261488,62.4504154;Armed-Attack	17
+Afghanistan;Nimroz;31.0261488,62.4504154;Arson/Firebombing	1
+Afghanistan;Nimroz;31.0261488,62.4504154;Bombing	20
+Afghanistan;Nimroz;31.0261488,62.4504154;Kidnapping	1
+Afghanistan;Nimroz;31.0261488,62.4504154;Theft	3
+Afghanistan;Nimroz;31.0261488,62.4504154;Unknown	4
+Afghanistan;Nuristan;35.26234,70.16541;Armed-Attack	13
+Afghanistan;Nuristan;35.26234,70.16541;Barricade/Hostage	5
+Afghanistan;Nuristan;35.26234,70.16541;Bombing	8
+Afghanistan;Nuristan;35.26234,70.16541;Kidnapping	10
+Afghanistan;Nuristan;35.26234,70.16541;Unknown	2
+Afghanistan;Paktika;32.41667,68.75;Armed-Attack	12
+Afghanistan;Paktika;32.41667,68.75;Bombing	117
+Afghanistan;Paktika;32.41667,68.75;Kidnapping	1
+Afghanistan;Paktika;32.41667,68.75;Theft	59
+Afghanistan;Paktika;32.41667,68.75;Unknown	0
+Afghanistan;Paktiya;33.706199,69.3831079;Armed-Attack	5
+Afghanistan;Paktiya;33.706199,69.3831079;Arson/Firebombing	0
+Afghanistan;Paktiya;33.706199,69.3831079;Assault	1
+Afghanistan;Paktiya;33.706199,69.3831079;Bombing	23
+Afghanistan;Paktiya;33.706199,69.3831079;Kidnapping	4
+Afghanistan;Paktiya;33.706199,69.3831079;Theft	0
+Afghanistan;Paktiya;33.706199,69.3831079;Unknown	16
+Afghanistan;Panjshir;35.3350467,69.7167783;Bombing	1
+Afghanistan;Parwan;34.9630977,68.8108849;Armed-Attack	6
+Afghanistan;Parwan;34.9630977,68.8108849;Arson/Firebombing	0
+Afghanistan;Parwan;34.9630977,68.8108849;Bombing	3
+Afghanistan;Parwan;34.9630977,68.8108849;Kidnapping	2
+Afghanistan;Parwan;34.9630977,68.8108849;Unknown	6
+Afghanistan;Samangan;36.0,67.66667;Armed-Attack	1
+Afghanistan;Samangan;36.0,67.66667;Bombing	4
+Afghanistan;Samangan;36.0,67.66667;Kidnapping	0
+Afghanistan;Sar-e Pul;35.6707473,66.0463534;Armed-Attack	16
+Afghanistan;Sar-e Pul;35.6707473,66.0463534;Assault	1
+Afghanistan;Sar-e Pul;35.6707473,66.0463534;Bombing	7
+Afghanistan;Sar-e Pul;35.6707473,66.0463534;Kidnapping	6
+Afghanistan;Sar-e Pul;35.6707473,66.0463534;Unknown	0
+Afghanistan;Takhar;36.6698013,69.4784541;Armed-Attack	1
+Afghanistan;Takhar;36.6698013,69.4784541;Assault	1
+Afghanistan;Takhar;36.6698013,69.4784541;Bombing	1
+Afghanistan;Takhar;36.6698013,69.4784541;Unknown	4
+Afghanistan;Uruzgan;32.9271287,66.1415263;Armed-Attack	11
+Afghanistan;Uruzgan;32.9271287,66.1415263;Assault	2
+Afghanistan;Uruzgan;32.9271287,66.1415263;Bombing	78
+Afghanistan;Uruzgan;32.9271287,66.1415263;Kidnapping	1
+Afghanistan;Uruzgan;32.9271287,66.1415263;Unknown	4
+Afghanistan;Wardak;34.3513494,68.2385339;Armed-Attack	21
+Afghanistan;Wardak;34.3513494,68.2385339;Arson/Firebombing	0
+Afghanistan;Wardak;34.3513494,68.2385339;Assault	1
+Afghanistan;Wardak;34.3513494,68.2385339;Bombing	31
+Afghanistan;Wardak;34.3513494,68.2385339;Kidnapping	1
+Afghanistan;Wardak;34.3513494,68.2385339;Unknown	0
+Afghanistan;Zabul;32.25,67.25;Armed-Attack	12
+Afghanistan;Zabul;32.25,67.25;Arson/Firebombing	0
+Afghanistan;Zabul;32.25,67.25;Bombing	50
+Afghanistan;Zabul;32.25,67.25;Kidnapping	22
+Afghanistan;Zabul;32.25,67.25;Unknown	10
+Algeria;Bouira;36.25,3.91667;Armed-Attack	2
+Algeria;Boumerdes;36.76639,3.47717;Armed-Attack	4
+Algeria;Boumerdes;36.76639,3.47717;Bombing	6
+Algeria;Djelfa;34.33333,3.66667;Bombing	5
+Algeria;Illizi;26.83333,8.16667;Kidnapping	0
+Algeria;Tizi Ouzou;36.7166667,4.05;Kidnapping	0
+Bangladesh;Chittagong;22.3384,91.83168;Assault	1
+Bangladesh;Khulna;22.80978,89.56439;Bombing	3
+Belarus;Minsk;53.9,27.56667;Bombing	215
+Burma;Bago;17.3333333,96.4833333;Armed-Attack	7
+Burma;Bago;17.3333333,96.4833333;Bombing	0
+Burma;Kachin;25.850904,97.4381355;Bombing	0
+Burma;Kachin;25.850904,97.4381355;Unknown	0
+Burma;Kayin;17.5,97.75;Armed-Attack	7
+Burma;Kayin;17.5,97.75;Bombing	6
+Burma;Mandalay;21.975,96.0833333;Bombing	17
+Burma;Mon;16.49051,97.62825;Bombing	2
+Burma;Mon;16.49051,97.62825;Kidnapping	0
+Burma;Shan;22.0,98.0;Bombing	0
+Burma;Shan;22.0,98.0;Kidnapping	0
+Burma;Yangon;16.80528,96.15611;Bombing	5
+Burundi;Bujumbura Mairie;-3.4146958,29.3598782;Armed-Attack	9
+Burundi;Bujumbura Rural;-3.603,29.4995;Armed-Attack	3
+Burundi;Cibitoke;-2.6815,29.3296;Theft	4
+Burundi;Ruyigi;-3.4750027,30.2483881;Armed-Attack	1
+Cameroon;Far North Province;10.6315589,14.6587821;Armed-Attack	1
+Cameroon;South-West Province;4.21734,9.17273;Armed-Attack	2
+Central African Republic;Haut-Mbomou;6.0,26.0;Kidnapping	0
+Central African Republic;Mbomou;5.0,23.5;Theft	0
+Central African Republic;Mbomou;5.0,23.5;Unknown	0
+Chile;Region Metropolitana;-33.4843354,-70.6216794;Arson/Firebombing	0
+Chile;Region Metropolitana;-33.4843354,-70.6216794;Bombing	0
+Chile;Santiago;-33.45694,-70.64827;Bombing	0
+China;Hunan;28.112444,112.98381;Bombing	3
+China;Jiangxi;28.674363,115.908733;Bombing	11
+China;Tianjin;39.084158,117.200983;Bombing	2
+Colombia;Antioquia;7.1986064,-75.3412179;Armed-Attack	7
+Colombia;Antioquia;7.1986064,-75.3412179;Barricade/Hostage	0
+Colombia;Antioquia;7.1986064,-75.3412179;Bombing	14
+Colombia;Antioquia;7.1986064,-75.3412179;Kidnapping	2
+Colombia;Arauca;7.079371,-70.758377;Armed-Attack	4
+Colombia;Arauca;7.079371,-70.758377;Arson/Firebombing	0
+Colombia;Arauca;7.079371,-70.758377;Barricade/Hostage	1
+Colombia;Arauca;7.079371,-70.758377;Bombing	11
+Colombia;Arauca;7.079371,-70.758377;Kidnapping	2
+Colombia;Boyaca;5.45,-73.35;Arson/Firebombing	0
+Colombia;Boyaca;5.45,-73.35;Kidnapping	0
+Colombia;Caqueta;0.869892,-73.8419063;Armed-Attack	1
+Colombia;Caqueta;0.869892,-73.8419063;Bombing	26
+Colombia;Caqueta;0.869892,-73.8419063;Kidnapping	0
+Colombia;Casanare;5.7589269,-71.5723953;Theft	1
+Colombia;Cauca;3.43722,-76.5225;Armed-Attack	31
+Colombia;Cauca;3.43722,-76.5225;Arson/Firebombing	0
+Colombia;Cauca;3.43722,-76.5225;Bombing	49
+Colombia;Cauca;3.43722,-76.5225;Kidnapping	0
+Colombia;Cauca;3.43722,-76.5225;Near Miss/Non Attack Incident	1
+Colombia;Cauca;3.43722,-76.5225;Theft	3
+Colombia;Cauca;3.43722,-76.5225;Threat	0
+Colombia;Cauca;3.43722,-76.5225;Unknown	2
+Colombia;Choco;5.2528033,-76.8259652;Armed-Attack	14
+Colombia;Choco;5.2528033,-76.8259652;Barricade/Hostage	1
+Colombia;Choco;5.2528033,-76.8259652;Bombing	1
+Colombia;Cundinamarca;5.0,-74.16667;Bombing	8
+Colombia;Cundinamarca;5.0,-74.16667;Kidnapping	0
+Colombia;Guaviare;1.68944,-72.82028;Arson/Firebombing	0
+Colombia;Huila;2.5359349,-75.5276699;Armed-Attack	7
+Colombia;Huila;2.5359349,-75.5276699;Arson/Firebombing	0
+Colombia;Huila;2.5359349,-75.5276699;Bombing	4
+Colombia;Huila;2.5359349,-75.5276699;Kidnapping	2
+Colombia;Huila;2.5359349,-75.5276699;Near Miss/Non Attack Incident	8
+Colombia;Huila;2.5359349,-75.5276699;Theft	0
+Colombia;La Guajira;10.84106,-73.70633;Bombing	0
+Colombia;Meta;3.2719904,-73.087749;Armed-Attack	4
+Colombia;Meta;3.2719904,-73.087749;Bombing	4
+Colombia;Meta;3.2719904,-73.087749;Kidnapping	0
+Colombia;Meta;3.2719904,-73.087749;Theft	6
+Colombia;Narino;1.5,-78.0;Armed-Attack	6
+Colombia;Narino;1.5,-78.0;Arson/Firebombing	0
+Colombia;Narino;1.5,-78.0;Bombing	20
+Colombia;Narino;1.5,-78.0;Kidnapping	0
+Colombia;Narino;1.5,-78.0;Theft	3
+Colombia;Norte de Santander;7.89391,-72.50782;Armed-Attack	2
+Colombia;Norte de Santander;7.89391,-72.50782;Arson/Firebombing	0
+Colombia;Norte de Santander;7.89391,-72.50782;Bombing	10
+Colombia;Norte de Santander;7.89391,-72.50782;Kidnapping	3
+Colombia;Putumayo;0.5,-76.0;Armed-Attack	4
+Colombia;Putumayo;0.5,-76.0;Arson/Firebombing	0
+Colombia;Putumayo;0.5,-76.0;Assault	4
+Colombia;Putumayo;0.5,-76.0;Bombing	8
+Colombia;Putumayo;0.5,-76.0;Theft	1
+Colombia;San Jose del Guaviare;2.57286,-72.64591;Bombing	2
+Colombia;Santander;6.6437076,-73.6536209;Bombing	0
+Colombia;Sucre;9.0,-75.0;Kidnapping	0
+Colombia;Tolima;4.0925168,-75.1545381;Armed-Attack	2
+Colombia;Tolima;4.0925168,-75.1545381;Arson/Firebombing	0
+Colombia;Tolima;4.0925168,-75.1545381;Barricade/Hostage	0
+Colombia;Tolima;4.0925168,-75.1545381;Bombing	12
+Colombia;Tolima;4.0925168,-75.1545381;Kidnapping	0
+Colombia;Tolima;4.0925168,-75.1545381;Unknown	0
+Colombia;Valle del Cauca;3.8008893,-76.6412712;Armed-Attack	10
+Colombia;Valle del Cauca;3.8008893,-76.6412712;Arson/Firebombing	0
+Colombia;Valle del Cauca;3.8008893,-76.6412712;Bombing	23
+Colombia;Valle del Cauca;3.8008893,-76.6412712;Kidnapping	8
+Colombia;Vichada;5.0,-69.5;Kidnapping	0
+Cote d'Ivoire;Lagunes;8.0,-5.0;Kidnapping	1
+Democratic Republic of the Congo;Katanga;-11.66089,27.47938;Armed-Attack	1
+Democratic Republic of the Congo;Maniema;-2.91667,25.91667;Theft	0
+Democratic Republic of the Congo;Nord-Kivu;-0.7917729,29.0459927;Armed-Attack	11
+Democratic Republic of the Congo;Nord-Kivu;-0.7917729,29.0459927;Assault	6
+Democratic Republic of the Congo;Nord-Kivu;-0.7917729,29.0459927;Kidnapping	13
+Democratic Republic of the Congo;Nord-Kivu;-0.7917729,29.0459927;Theft	4
+Democratic Republic of the Congo;Nord-Kivu;-0.7917729,29.0459927;Unknown	11
+Democratic Republic of the Congo;Orientale;1.6406296,26.419389;Armed-Attack	4
+Democratic Republic of the Congo;Orientale;1.6406296,26.419389;Kidnapping	35
+Democratic Republic of the Congo;Orientale;1.6406296,26.419389;Theft	7
+Democratic Republic of the Congo;Orientale;1.6406296,26.419389;Unknown	0
+Democratic Republic of the Congo;Sud-Kivu;-3.011658,28.299435;Assault	71
+Democratic Republic of the Congo;Sud-Kivu;-3.011658,28.299435;Theft	12
+Democratic Republic of the Congo;Sud-Kivu;-3.011658,28.299435;Unknown	4
+Egypt;Al Iskandariyah;31.21564,29.95527;Bombing	8
+Egypt;Al Jizah;30.0130557,31.2088526;Bombing	0
+Egypt;Al Qahirah;30.06263,31.24967;Armed-Attack	2
+Egypt;Shamal Sina;30.6084723,33.617577;Armed-Attack	5
+Egypt;Shamal Sina;30.6084723,33.617577;Bombing	0
+Egypt;Shamal Sina;30.6084723,33.617577;Unknown	0
+Ethiopia;Adis Abeba;9.02497,38.74689;Bombing	2
+Ethiopia;Sumale;6.6612293,43.7908453;Hijacking	0
+Ethiopia;Sumale;6.6612293,43.7908453;Kidnapping	2
+France;Limousin;45.5,1.83333;Armed-Attack	1
+Gaza Strip;2 educators kidnapped by suspected HAMAS;31.5,34.46667;Kidnapping	0
+Gaza Strip;;17.570692,-3.996166;Bombing	0
+Gaza Strip;;17.570692,-3.996166;Kidnapping	5
+Gaza Strip;Gaza City;31.522561,34.453593;Assault	40
+Gaza Strip;Gaza City;31.522561,34.453593;Bombing	1
+Gaza Strip;Gaza City;31.522561,34.453593;Kidnapping	7
+Gaza Strip;Jabaliya;31.5272,34.48347;Kidnapping	0
+Gaza Strip;Khan Yunis;31.34018,34.30627;Bombing	1
+Gaza Strip;Khan Yunis;31.34018,34.30627;Kidnapping	0
+Gaza Strip;Mukhayyam al Maghazi;31.42234,34.38501;Armed-Attack	4
+Georgia;Samegrelo-Zemo Svaneti;42.5088,41.87088;Bombing	0
+Georgia;Shida Kartli;42.0756944,43.9540462;Armed-Attack	1
+Germany;Berlin;52.5200066,13.404954;Arson/Firebombing	0
+Germany;Hessen;50.5,9.25;Armed-Attack	4
+Greece;Achaia;38.24444,21.73444;Arson/Firebombing	0
+Greece;Achaia;38.24444,21.73444;Bombing	0
+Greece;Arta;39.16056,20.98528;Arson/Firebombing	0
+Greece;Attiki;37.94745,23.63708;Arson/Firebombing	7
+Greece;Attiki;37.94745,23.63708;Assault	0
+Greece;Attiki;37.94745,23.63708;Bombing	0
+Greece;Attiki;37.94745,23.63708;Near Miss/Non Attack Incident	0
+Greece;Crete;35.15585,24.89502;Arson/Firebombing	0
+Greece;Crete;35.15585,24.89502;Bombing	0
+Greece;Ileia;37.75,21.58333;Bombing	0
+Greece;Irakleion;35.2035331,25.0703229;Arson/Firebombing	0
+Greece;Irakleion;35.2035331,25.0703229;Bombing	0
+Greece;Kavala;40.93972,24.40194;Arson/Firebombing	0
+Greece;Korinthia;37.91667,22.66667;Arson/Firebombing	0
+Greece;Lakonia;37.0,22.58333;Bombing	0
+Greece;Preveza;38.95,20.75;Arson/Firebombing	0
+Greece;Rethymnis;35.25,24.58333;Arson/Firebombing	0
+Greece;Rethymnis;35.25,24.58333;Bombing	0
+Greece;Rodopi;41.25,25.5;Arson/Firebombing	0
+Greece;Thessaloniki;40.64028,22.94389;Arson/Firebombing	1
+Greece;Thessaloniki;40.64028,22.94389;Bombing	0
+Greece;Zakynthos;37.78333,20.78333;Bombing	0
+Herat Afghanistan;Herat;34.34817,62.19967;Armed-Attack	0
+India;Andhra Pradesh;18.0,79.5;Armed-Attack	3
+India;Andhra Pradesh;18.0,79.5;Arson/Firebombing	0
+India;Andhra Pradesh;18.0,79.5;Assault	0
+India;Andhra Pradesh;18.0,79.5;Bombing	0
+India;Andhra Pradesh;18.0,79.5;Kidnapping	1
+India;Assam;26.0,93.0;Armed-Attack	8
+India;Assam;26.0,93.0;Arson/Firebombing	0
+India;Assam;26.0,93.0;Bombing	5
+India;Assam;26.0,93.0;Kidnapping	3
+India;Assam;26.0,93.0;Theft	1
+India;Assam;26.0,93.0;Unknown	1
+India;Bihar;25.75,85.75;Armed-Attack	12
+India;Bihar;25.75,85.75;Arson/Firebombing	0
+India;Bihar;25.75,85.75;Assault	41
+India;Bihar;25.75,85.75;Bombing	13
+India;Bihar;25.75,85.75;Kidnapping	10
+India;Bihar;25.75,85.75;Near Miss/Non Attack Incident	0
+India;Bihar;25.75,85.75;Theft	1
+India;Bihar;25.75,85.75;Unknown	1
+India;Chhattisgarh;21.2786567,81.8661442;Armed-Attack	17
+India;Chhattisgarh;21.2786567,81.8661442;Arson/Firebombing	0
+India;Chhattisgarh;21.2786567,81.8661442;Assault	10
+India;Chhattisgarh;21.2786567,81.8661442;Bombing	23
+India;Chhattisgarh;21.2786567,81.8661442;Kidnapping	14
+India;Chhattisgarh;21.2786567,81.8661442;Unknown	1
+India;Delhi;28.635308,77.22496;Bombing	0
+India;Jammu and Kashmir;32.73569,74.86911;Armed-Attack	26
+India;Jammu and Kashmir;32.73569,74.86911;Arson/Firebombing	0
+India;Jammu and Kashmir;32.73569,74.86911;Assault	2
+India;Jammu and Kashmir;32.73569,74.86911;Bombing	15
+India;Jammu and Kashmir;32.73569,74.86911;Kidnapping	4
+India;Jammu and Kashmir;32.73569,74.86911;Theft	2
+India;Jammu and Kashmir;32.73569,74.86911;Unknown	1
+India;Jharkhand;23.75,85.5;Armed-Attack	24
+India;Jharkhand;23.75,85.5;Arson/Firebombing	0
+India;Jharkhand;23.75,85.5;Assault	15
+India;Jharkhand;23.75,85.5;Barricade/Hostage	0
+India;Jharkhand;23.75,85.5;Bombing	5
+India;Jharkhand;23.75,85.5;Kidnapping	27
+India;Jharkhand;23.75,85.5;Theft	6
+India;Jharkhand;23.75,85.5;Threat	3
+India;Kerala;10.0,76.5;Theft	0
+India;Maharashtra;19.7514798,75.7138884;Armed-Attack	3
+India;Maharashtra;19.7514798,75.7138884;Arson/Firebombing	0
+India;Maharashtra;19.7514798,75.7138884;Assault	3
+India;Maharashtra;19.7514798,75.7138884;Bombing	3
+India;Maharashtra;19.7514798,75.7138884;Kidnapping	8
+India;Maharashtra;19.7514798,75.7138884;Unknown	2
+India;Manipur;25.0,94.0;Armed-Attack	12
+India;Manipur;25.0,94.0;Assault	3
+India;Manipur;25.0,94.0;Bombing	5
+India;Manipur;25.0,94.0;Kidnapping	0
+India;Manipur;25.0,94.0;Theft	2
+India;Manipur;25.0,94.0;Unknown	1
+India;Meghalaya;25.4670308,91.366216;Armed-Attack	6
+India;Meghalaya;25.4670308,91.366216;Arson/Firebombing	1
+India;Meghalaya;25.4670308,91.366216;Assault	6
+India;Meghalaya;25.4670308,91.366216;Bombing	0
+India;Meghalaya;25.4670308,91.366216;Kidnapping	0
+India;Meghalaya;25.4670308,91.366216;Theft	5
+India;Mizoram;23.164543,92.9375739;Kidnapping	1
+India;Nagaland;26.1584354,94.5624426;Armed-Attack	2
+India;Nagaland;26.1584354,94.5624426;Kidnapping	0
+India;Orissa;20.9516658,85.0985236;Armed-Attack	3
+India;Orissa;20.9516658,85.0985236;Arson/Firebombing	0
+India;Orissa;20.9516658,85.0985236;Assault	7
+India;Orissa;20.9516658,85.0985236;Bombing	1
+India;Orissa;20.9516658,85.0985236;Kidnapping	5
+India;Orissa;20.9516658,85.0985236;Theft	0
+India;Orissa;20.9516658,85.0985236;Threat	0
+India;Orissa;20.9516658,85.0985236;Unknown	1
+India;Tamil Nadu;13.08784,80.27847;Assault	3
+India;Tripura;24.0,92.0;Armed-Attack	1
+India;Tripura;24.0,92.0;Kidnapping	0
+India;Uttar Pradesh;26.4478,80.34627;Assault	2
+India;Uttar Pradesh;26.4478,80.34627;Threat	2
+India;West Bengal;22.56263,88.36304;Armed-Attack	6
+India;West Bengal;22.56263,88.36304;Arson/Firebombing	0
+India;West Bengal;22.56263,88.36304;Assault	2
+India;West Bengal;22.56263,88.36304;Bombing	1
+India;West Bengal;22.56263,88.36304;Kidnapping	29
+India;West Bengal;22.56263,88.36304;Threat	4
+India;West Bengal;22.56263,88.36304;Unknown	2
+Indonesia;Jakarta;-6.21462,106.84513;Bombing	1
+Indonesia;Jawa Barat;-6.17806,106.63;Arson/Firebombing	0
+Indonesia;Jawa Barat;-6.17806,106.63;Bombing	5
+Indonesia;Papua;-4.269928,138.0803529;Armed-Attack	1
+Indonesia;Sulawesi Tengah;-0.8917,119.8707;Armed-Attack	0
+Indonesia;Sulawesi Tengah;-0.8917,119.8707;Theft	3
+Indonesia;Sumatera Selatan;-3.3194374,103.914399;Bombing	1
+Iran;Kordestan;35.31495,46.99883;Armed-Attack	20
+Iran;Kordestan;35.31495,46.99883;Bombing	1
+Iran;Qom;34.6401,50.8764;Bombing	0
+Iraq;Al Anbar;32.5597614,41.9196471;Armed-Attack	47
+Iraq;Al Anbar;32.5597614,41.9196471;Assault	1
+Iraq;Al Anbar;32.5597614,41.9196471;Bombing	241
+Iraq;Al Anbar;32.5597614,41.9196471;Kidnapping	1
+Iraq;Al Basrah;30.53302,47.79747;Armed-Attack	0
+Iraq;Al Basrah;30.53302,47.79747;Bombing	55
+Iraq;Al Qadisiyah;31.58333,45.0;Armed-Attack	3
+Iraq;Al Qadisiyah;31.58333,45.0;Bombing	61
+Iraq;Al Qadisiyah;31.58333,45.0;Kidnapping	1
+Iraq;Arbil;36.19257,44.01062;Armed-Attack	1
+Iraq;As Sulaymaniyah;35.56496,45.4329;Armed-Attack	0
+Iraq;As Sulaymaniyah;35.56496,45.4329;Bombing	3
+Iraq;Babil;32.468191,44.5501935;Armed-Attack	17
+Iraq;Babil;32.468191,44.5501935;Assault	4
+Iraq;Babil;32.468191,44.5501935;Bombing	253
+Iraq;Babil;32.468191,44.5501935;Kidnapping	0
+Iraq;Baghdad;33.325,44.422;Armed-Attack	207
+Iraq;Baghdad;33.325,44.422;Assault	5
+Iraq;Baghdad;33.325,44.422;Bombing	1442
+Iraq;Baghdad;33.325,44.422;Kidnapping	1
+Iraq;Baghdad;33.325,44.422;Unknown	4
+Iraq;Dahuk;36.86709,42.98845;Armed-Attack	0
+Iraq;Dhi Qar;31.1042292,46.3624686;Bombing	4
+Iraq;Diyala;33.7733487,45.1494505;Armed-Attack	49
+Iraq;Diyala;33.7733487,45.1494505;Bombing	303
+Iraq;Diyala;33.7733487,45.1494505;Kidnapping	104
+Iraq;Karbala;32.61603,44.02488;Armed-Attack	3
+Iraq;Karbala;32.61603,44.02488;Bombing	188
+Iraq;Kirkuk;35.46806,44.39222;Armed-Attack	40
+Iraq;Kirkuk;35.46806,44.39222;Assault	3
+Iraq;Kirkuk;35.46806,44.39222;Bombing	221
+Iraq;Kirkuk;35.46806,44.39222;Kidnapping	1
+Iraq;Kirkuk;35.46806,44.39222;Unknown	1
+Iraq;Maysan;31.8734002,47.1362125;Armed-Attack	1
+Iraq;Ninawa;36.229574,42.2362435;Armed-Attack	129
+Iraq;Ninawa;36.229574,42.2362435;Barricade/Hostage	6
+Iraq;Ninawa;36.229574,42.2362435;Bombing	203
+Iraq;Ninawa;36.229574,42.2362435;Kidnapping	2
+Iraq;Ninawa;36.229574,42.2362435;Unknown	1
+Iraq;Salah ad Din;34.5,43.65;Armed-Attack	24
+Iraq;Salah ad Din;34.5,43.65;Bombing	377
+Iraq;Salah ad Din;34.5,43.65;Kidnapping	1
+Iraq;Wasit;32.75,45.41667;Armed-Attack	4
+Iraq;Wasit;32.75,45.41667;Assault	1
+Iraq;Wasit;32.75,45.41667;Bombing	0
+Iraq;Wasit;32.75,45.41667;Kidnapping	0
+Ireland;Dublin;53.33306,-6.24889;Bombing	0
+Israel.;Southern District;31.79213,34.64966;Armed-Attack	0
+Israel;Central District;32.09174,34.88503;Armed-Attack	0
+Israel;Golan Heights;32.99182,35.68973;Arson/Firebombing	0
+Israel;Golan Heights;32.99182,35.68973;Bombing	5
+Israel;Jerusalem;31.78199,35.21961;Bombing	2
+Israel;Southern District;31.79213,34.64966;Armed-Attack	21
+Istanbul Turkey;Kadikoy;40.98229,29.09032;Arson/Firebombing	0
+Italy;Toscana;43.41667,11.0;Bombing	1
+Kazakhstan;Aqtobe;50.2833333,57.1666667;Bombing	1
+Kazakhstan;Astana;51.1666667,71.4333333;Bombing	2
+Kenya;North Eastern Province;1.2692186,33.438353;Armed-Attack	12
+Kenya;North Eastern Province;1.2692186,33.438353;Bombing	15
+Khyber Pakhtunkhwa. Pakistan;Kohat;33.58196,71.44929;Armed-Attack	0
+Kyrgyzstan;Bishkek;42.87,74.59;Armed-Attack	3
+Lebanon;Baalbek-Hermel;34.3970517,36.3871708;Kidnapping	0
+Lebanon;Beqaa;33.66667,35.83333;Bombing	0
+Lebanon;Beqaa;33.66667,35.83333;Kidnapping	3
+Lebanon;Liban-Nord;34.43667,35.84972;Armed-Attack	2
+Lebanon;Liban-Sud;33.3177416,35.2807624;Bombing	6
+Mali;;17.570692,-3.996166;Bombing	0
+Mali;Bamako;12.65,-8.0;Armed-Attack	1
+Mauritania;;17.570692,-3.996166;Unknown	1
+Mauritania;Gorgol;16.05333,-12.82444;Armed-Attack	1
+Mexico;Distrito Federal;19.2464696,-99.1013498;Bombing	0
+Mexico;Mexico;19.42847,-99.12766;Bombing	1
+Morocco;Marrakech-Tensift-Al Haouz;31.63416,-7.99994;Bombing	16
+Nepal;Banke;28.1460573,81.7787021;Assault	1
+Nepal;Banke;28.1460573,81.7787021;Bombing	12
+Nepal;Bara;27.08333,85.08333;Armed-Attack	2
+Nepal;Bardiya;28.33333,81.41667;Bombing	0
+Nepal;Bhojpur;27.1474,87.0508;Unknown	4
+Nepal;Dhanukha;26.82719,86.08285;Armed-Attack	1
+Nepal;Dhanukha;26.82719,86.08285;Bombing	1
+Nepal;Jhapa;26.58333,87.91667;Armed-Attack	1
+Nepal;Kanchanpur;28.83333,80.33333;Unknown	1
+Nepal;Kathmandu;27.70169,85.3206;Bombing	0
+Nepal;Mahottari;26.91667,85.83333;Armed-Attack	1
+Nepal;Morang;26.66667,87.5;Armed-Attack	3
+Nepal;Rautahat;27.0,85.33333;Bombing	13
+Nepal;Rupandehi;27.66667,83.41667;Bombing	21
+Nepal;Siraha;26.65411,86.2087;Bombing	0
+Nepal;Sunsari;26.6275522,87.1821709;Bombing	1
+Niger;Niamey;13.51366,2.1098;Kidnapping	2
+Nigeria;Anambra;6.2757656,7.0068393;Kidnapping	0
+Nigeria;Bauchi;10.31344,9.84327;Armed-Attack	1
+Nigeria;Bauchi;10.31344,9.84327;Bombing	42
+Nigeria;Bayelsa;4.8677767,5.8987139;Armed-Attack	1
+Nigeria;Bayelsa;4.8677767,5.8987139;Bombing	0
+Nigeria;Benue;7.33333,8.75;Armed-Attack	1
+Nigeria;Borno;12.1205201,13.1740348;Armed-Attack	57
+Nigeria;Borno;12.1205201,13.1740348;Arson/Firebombing	0
+Nigeria;Borno;12.1205201,13.1740348;Bombing	124
+Nigeria;Borno;12.1205201,13.1740348;Unknown	2
+Nigeria;Delta;5.5324624,5.8987139;Assault	1
+Nigeria;Delta;5.5324624,5.8987139;Bombing	0
+Nigeria;Federal Capital Territory;8.8556838,7.179026;Bombing	14
+Nigeria;Federal Capital Territory;8.8556838,7.179026;Kidnapping	0
+Nigeria;Kaduna;10.5166667,7.4333333;Bombing	16
+Nigeria;Katsina;12.99302,7.606163;Theft	5
+Nigeria;Kebbi;11.6781241,4.0695454;Kidnapping	0
+Nigeria;Niger;18.0,9.0;Bombing	3
+Nigeria;Rivers;4.8580767,6.9209135;Armed-Attack	3
+Nigeria;Taraba;8.0,10.5;Kidnapping	0
+Ninawa Iraq;Mosul;36.335,43.11889;Bombing	1
+Oman;Ash Sharqiya;22.2954496,50.6793759;Arson/Firebombing	1
+Pakistan;;17.570692,-3.996166;Armed-Attack	0
+Pakistan;Balochistan;28.47849,65.64355;Armed-Attack	273
+Pakistan;Balochistan;28.47849,65.64355;Arson/Firebombing	24
+Pakistan;Balochistan;28.47849,65.64355;Bombing	202
+Pakistan;Balochistan;28.47849,65.64355;Hijacking	0
+Pakistan;Balochistan;28.47849,65.64355;Kidnapping	12
+Pakistan;Balochistan;28.47849,65.64355;Unknown	8
+Pakistan;Dera Murad Jamali Balochistan;28.54657,68.22308;Armed-Attack	2
+Pakistan;Federally Administered Tribal Areas;33.01455,69.99925;Armed-Attack	110
+Pakistan;Federally Administered Tribal Areas;33.01455,69.99925;Arson/Firebombing	1
+Pakistan;Federally Administered Tribal Areas;33.01455,69.99925;Assault	6
+Pakistan;Federally Administered Tribal Areas;33.01455,69.99925;Bombing	117
+Pakistan;Federally Administered Tribal Areas;33.01455,69.99925;Hijacking	0
+Pakistan;Federally Administered Tribal Areas;33.01455,69.99925;Kidnapping	24
+Pakistan;Federally Administered Tribal Areas;33.01455,69.99925;Theft	0
+Pakistan;Federally Administered Tribal Areas;33.01455,69.99925;Unknown	4
+Pakistan;Gilgit-Baltistan;35.91868,74.31245;Bombing	0
+Pakistan;Islamabad;33.718151,73.060547;Armed-Attack	4
+Pakistan;Islamabad;33.718151,73.060547;Bombing	7
+Pakistan;Khyber Pakhtunkhwa;34.9526205,72.331113;Armed-Attack	180
+Pakistan;Khyber Pakhtunkhwa;34.9526205,72.331113;Arson/Firebombing	0
+Pakistan;Khyber Pakhtunkhwa;34.9526205,72.331113;Bombing	800
+Pakistan;Khyber Pakhtunkhwa;34.9526205,72.331113;Kidnapping	12
+Pakistan;Khyber Pakhtunkhwa;34.9526205,72.331113;Unknown	3
+Pakistan;Khyber Pakhtunkhwam;34.9526205,72.331113;Bombing	107
+Pakistan;Punjab;31.1704063,72.7097161;Armed-Attack	10
+Pakistan;Punjab;31.1704063,72.7097161;Arson/Firebombing	0
+Pakistan;Punjab;31.1704063,72.7097161;Bombing	146
+Pakistan;Punjab;31.1704063,72.7097161;Kidnapping	0
+Pakistan;Sindh;25.8943018,68.5247149;Armed-Attack	101
+Pakistan;Sindh;25.8943018,68.5247149;Bombing	146
+Pakistan;Sindh;25.8943018,68.5247149;Near Miss/Non Attack Incident	0
+Paraguay;Alto Parana;-25.5,-54.83333;Near Miss/Non Attack Incident	0
+Paraguay;Central Department;-22.99333,-57.99639;Bombing	0
+Paraguay;Concepcion;-23.40556,-57.44028;Bombing	4
+Pattani Thailand;Sai Buri;6.7,101.58333;Armed-Attack	1
+Peru;Ayacucho;-13.1615,-74.22154;Kidnapping	0
+Peru;Cusco;-13.525,-71.9722222;Armed-Attack	9
+Peru;San Martin;-7.0,-76.83333;Armed-Attack	0
+Philippines;Agusan del Norte;9.16667,125.5;Armed-Attack	0
+Philippines;Agusan del Sur;8.6051665,125.916739;Armed-Attack	2
+Philippines;Agusan del Sur;8.6051665,125.916739;Arson/Firebombing	0
+Philippines;Agusan del Sur;8.6051665,125.916739;Kidnapping	1
+Philippines;Basilan;6.4296349,121.9870165;Armed-Attack	1
+Philippines;Basilan;6.4296349,121.9870165;Bombing	15
+Philippines;Basilan;6.4296349,121.9870165;Kidnapping	0
+Philippines;Batangas;13.7572111,121.0581111;Theft	2
+Philippines;Biliran;11.48333,124.48333;Armed-Attack	2
+Philippines;Bukidnon;8.0,125.0;Armed-Attack	12
+Philippines;Bukidnon;8.0,125.0;Arson/Firebombing	0
+Philippines;Bukidnon;8.0,125.0;Barricade/Hostage	0
+Philippines;Bukidnon;8.0,125.0;Kidnapping	0
+Philippines;Bukidnon;8.0,125.0;Theft	0
+Philippines;Cagayan;17.61306,121.72694;Bombing	7
+Philippines;Camarines Sur;13.4324,123.4115;Armed-Attack	1
+Philippines;Camarines Sur;13.4324,123.4115;Arson/Firebombing	0
+Philippines;Camarines Sur;13.4324,123.4115;Kidnapping	1
+Philippines;Compostela Valley;7.60755,125.9586;Armed-Attack	1
+Philippines;Compostela Valley;7.60755,125.9586;Arson/Firebombing	0
+Philippines;Compostela Valley;7.60755,125.9586;Barricade/Hostage	1
+Philippines;Compostela Valley;7.60755,125.9586;Bombing	5
+Philippines;Compostela Valley;7.60755,125.9586;Theft	1
+Philippines;Cotabato;7.16083,124.475;Armed-Attack	3
+Philippines;Cotabato;7.16083,124.475;Bombing	0
+Philippines;Cotabato;7.16083,124.475;Kidnapping	0
+Philippines;Davao Oriental;6.95508,126.21655;Arson/Firebombing	0
+Philippines;Davao Oriental;6.95508,126.21655;Kidnapping	0
+Philippines;Davao del Norte;7.5617699,125.6532848;Armed-Attack	2
+Philippines;Davao del Norte;7.5617699,125.6532848;Arson/Firebombing	0
+Philippines;Davao del Sur;6.33333,125.5;Barricade/Hostage	0
+Philippines;Davao del Sur;6.33333,125.5;Kidnapping	4
+Philippines;Davao;7.07306,125.61278;Armed-Attack	1
+Philippines;Davao;7.07306,125.61278;Arson/Firebombing	0
+Philippines;Davao;7.07306,125.61278;Bombing	0
+Philippines;Eastern Samar;11.66667,125.5;Bombing	1
+Philippines;Maguindanao;7.20417,124.43972;Bombing	1
+Philippines;Maguindanao;7.20417,124.43972;Kidnapping	0
+Philippines;Makati;14.55027,121.03269;Bombing	18
+Philippines;Masbate;12.16667,123.58333;Armed-Attack	3
+Philippines;Negros Occidental;10.2925609,123.0246518;Armed-Attack	4
+Philippines;Negros Occidental;10.2925609,123.0246518;Arson/Firebombing	0
+Philippines;Negros Occidental;10.2925609,123.0246518;Kidnapping	1
+Philippines;Palawan;10.0,118.75;Armed-Attack	3
+Philippines;Quezon;14.6488,121.0509;Armed-Attack	1
+Philippines;Rizal;14.58639,121.17528;Armed-Attack	2
+Philippines;Sorsogon;12.9927095,124.0147464;Armed-Attack	2
+Philippines;South Cotabato;6.50306,124.84694;Armed-Attack	5
+Philippines;Sultan Kudarat;6.5069401,124.4198243;Bombing	4
+Philippines;Sulu;5.9749011,121.03351;Armed-Attack	1
+Philippines;Sulu;5.9749011,121.03351;Bombing	15
+Philippines;Sulu;5.9749011,121.03351;Kidnapping	0
+Philippines;Surigao del Sur;8.66667,126.0;Armed-Attack	1
+Philippines;Surigao del Sur;8.66667,126.0;Arson/Firebombing	0
+Philippines;Surigao del Sur;8.66667,126.0;Assault	0
+Philippines;Surigao;9.789,125.495;Armed-Attack	0
+Philippines;Surigao;9.789,125.495;Arson/Firebombing	0
+Philippines;Surigao;9.789,125.495;Theft	0
+Philippines;Tarlac;15.48017,120.59794;Armed-Attack	1
+Philippines;Zamboanga del Sur;7.8275,123.4782;Theft	0
+Russia;Adygeya;45.0001,40.01045;Armed-Attack	1
+Russia;Chechnya;43.4023301,45.7187468;Armed-Attack	3
+Russia;Chechnya;43.4023301,45.7187468;Bombing	17
+Russia;Chechnya;43.4023301,45.7187468;Kidnapping	0
+Russia;Dagestan;43.0,47.0;Armed-Attack	57
+Russia;Dagestan;43.0,47.0;Bombing	36
+Russia;Dagestan;43.0,47.0;Theft	1
+Russia;Ingushetiya;43.16667,45.0;Armed-Attack	10
+Russia;Ingushetiya;43.16667,45.0;Bombing	1
+Russia;Kabardino-Balkariya;43.05009,43.21426;Armed-Attack	23
+Russia;Kabardino-Balkariya;43.05009,43.21426;Arson/Firebombing	0
+Russia;Kabardino-Balkariya;43.05009,43.21426;Bombing	2
+Russia;Karachayevo-Cherkesiya;44.0,42.0;Armed-Attack	1
+Russia;Karachayevo-Cherkesiya;44.0,42.0;Arson/Firebombing	0
+Russia;Moskva;55.755826,37.6173;Armed-Attack	1
+Russia;Moskva;55.755826,37.6173;Assault	0
+Russia;Moskva;55.755826,37.6173;Bombing	208
+Russia;Novosibirskaya Oblast;55.4467133,80.1043924;Bombing	0
+Russia;Samarskaya Oblast;53.0,50.0;Bombing	0
+Russia;Severnaya Osetiya-Alaniya;43.0451302,44.2870972;Assault	1
+Russia;Stavropolskiy Kray;45.0,44.0;Bombing	1
+Russia;Tyumenskaya Oblast;56.9634387,66.948278;Arson/Firebombing	0
+Russia;Volgogradskaya Oblast;49.0,44.0;Bombing	0
+Rwanda;Kigali City;-1.98658,30.06907;Armed-Attack	10
+Saudi Arabia;Ar Riyad;24.68773,46.72185;Armed-Attack	1
+Somalia;1 other kidnapped by suspected al-Shabaab al-Islamiya;6.0,48.0;Kidnapping	6
+Somalia;2 others wounded in grenade attack by suspected al-Shabaab al-Islamiya;6.0,48.0;Armed-Attack	4
+Somalia;;17.570692,-3.996166;Armed-Attack	12
+Somalia;;17.570692,-3.996166;Kidnapping	0
+Somalia;;17.570692,-3.996166;Theft	1
+Somalia;Bakool;4.3657221,44.0960311;Armed-Attack	3
+Somalia;Bakool;4.3657221,44.0960311;Assault	3
+Somalia;Bakool;4.3657221,44.0960311;Bombing	3
+Somalia;Bakool;4.3657221,44.0960311;Kidnapping	2
+Somalia;Banaadir;2.1187375,45.3369459;Armed-Attack	332
+Somalia;Banaadir;2.1187375,45.3369459;Assault	2
+Somalia;Banaadir;2.1187375,45.3369459;Bombing	66
+Somalia;Banaadir;2.1187375,45.3369459;Kidnapping	1
+Somalia;Banaadir;2.1187375,45.3369459;Theft	0
+Somalia;Banaadir;2.1187375,45.3369459;Unknown	1
+Somalia;Bari;10.1203847,49.6911374;Armed-Attack	13
+Somalia;Bari;10.1203847,49.6911374;Assault	2
+Somalia;Bari;10.1203847,49.6911374;Bombing	2
+Somalia;Bay;2.4825193,43.483738;Armed-Attack	2
+Somalia;Bay;2.4825193,43.483738;Assault	9
+Somalia;Bay;2.4825193,43.483738;Kidnapping	20
+Somalia;Galguduud;5.0,47.0;Armed-Attack	1
+Somalia;Galguduud;5.0,47.0;Assault	4
+Somalia;Galguduud;5.0,47.0;Kidnapping	47
+Somalia;Galguduud;5.0,47.0;Theft	0
+Somalia;Gedo;3.0,42.0;Armed-Attack	41
+Somalia;Gedo;3.0,42.0;Arson/Firebombing	0
+Somalia;Gedo;3.0,42.0;Bombing	16
+Somalia;Gedo;3.0,42.0;Kidnapping	0
+Somalia;Hiiraan;4.0,45.5;Armed-Attack	80
+Somalia;Hiiraan;4.0,45.5;Assault	64
+Somalia;Hiiraan;4.0,45.5;Bombing	3
+Somalia;Hiiraan;4.0,45.5;Kidnapping	4
+Somalia;Hiiraan;4.0,45.5;Theft	2
+Somalia;Hiiraan;4.0,45.5;Unknown	11
+Somalia;Jubbada Dhexe;2.0780488,41.6011814;Assault	2
+Somalia;Jubbada Dhexe;2.0780488,41.6011814;Kidnapping	0
+Somalia;Jubbada Dhexe;2.0780488,41.6011814;Theft	0
+Somalia;Jubbada Hoose;0.224021,41.6011814;Armed-Attack	9
+Somalia;Jubbada Hoose;0.224021,41.6011814;Assault	8
+Somalia;Jubbada Hoose;0.224021,41.6011814;Kidnapping	60
+Somalia;Jubbada Hoose;0.224021,41.6011814;Theft	1
+Somalia;Mudug;6.5656726,47.7637565;Armed-Attack	36
+Somalia;Mudug;6.5656726,47.7637565;Bombing	5
+Somalia;Mudug;6.5656726,47.7637565;Kidnapping	0
+Somalia;Mudug;6.5656726,47.7637565;Theft	0
+Somalia;Mudug;6.5656726,47.7637565;Unknown	10
+Somalia;Nugaal;8.16667,49.0;Armed-Attack	2
+Somalia;Shabeellaha Dhexe;2.9250247,45.9039689;Assault	8
+Somalia;Shabeellaha Dhexe;2.9250247,45.9039689;Barricade/Hostage	3
+Somalia;Shabeellaha Dhexe;2.9250247,45.9039689;Kidnapping	4
+Somalia;Shabeellaha Dhexe;2.9250247,45.9039689;Theft	0
+Somalia;Shabeellaha Dhexe;2.9250247,45.9039689;Unknown	13
+Somalia;Shabeellaha Hoose;1.83333,44.41667;Armed-Attack	19
+Somalia;Shabeellaha Hoose;1.83333,44.41667;Assault	24
+Somalia;Shabeellaha Hoose;1.83333,44.41667;Kidnapping	11
+Somalia;Shabeellaha Hoose;1.83333,44.41667;Unknown	1
+Somalia;Sool;8.66667,47.5;Armed-Attack	14
+Somalia;Sool;8.66667,47.5;Bombing	2
+Somalia;Togdheer;9.52212,45.53363;Armed-Attack	31
+Sri Lanka;North Central Province;8.33333,80.5;Armed-Attack	0
+Sudan;Aali an Nil;16.0,30.0;Barricade/Hostage	13
+Sudan;Aali an Nil;16.0,30.0;Theft	62
+Sudan;Al Wahdah;15.31408,44.18688;Armed-Attack	6
+Sudan;Al Wahdah;15.31408,44.18688;Bombing	2
+Sudan;Al Wahdah;15.31408,44.18688;Hijacking	0
+Sudan;Al Wahdah;15.31408,44.18688;Unknown	12
+Sudan;Gharb Darfur;12.8463561,23.0011989;Armed-Attack	4
+Sudan;Gharb Darfur;12.8463561,23.0011989;Kidnapping	0
+Sudan;Gharb al Istiwaiyah;16.0,30.0;Armed-Attack	2
+Sudan;Gharb al Istiwaiyah;16.0,30.0;Kidnapping	3
+Sudan;Janub Kurdufan;11.1990192,29.4179324;Armed-Attack	4
+Sudan;Janub Kurdufan;11.1990192,29.4179324;Bombing	0
+Sudan;Junqali;16.0,30.0;Armed-Attack	50
+Sudan;Shamal Darfur;13.62793,25.34936;Armed-Attack	1
+Sudan;Shamal Darfur;13.62793,25.34936;Theft	8
+Switzerland;Solothurn;47.20791,7.53714;Bombing	2
+Syria;Hims;34.72682,36.72339;Armed-Attack	3
+Thailand;Chon Buri;13.3622,100.98345;Armed-Attack	2
+Thailand;Khon Kaen;16.44671,102.833;Bombing	0
+Thailand;Krung Thep;13.7278956,100.5241235;Armed-Attack	3
+Thailand;Narathiwat;6.42639,101.82308;Armed-Attack	40
+Thailand;Narathiwat;6.42639,101.82308;Barricade/Hostage	1
+Thailand;Narathiwat;6.42639,101.82308;Bombing	24
+Thailand;Narathiwat;6.42639,101.82308;Theft	2
+Thailand;Pattani;6.86814,101.25009;Armed-Attack	72
+Thailand;Pattani;6.86814,101.25009;Arson/Firebombing	0
+Thailand;Pattani;6.86814,101.25009;Assault	1
+Thailand;Pattani;6.86814,101.25009;Bombing	23
+Thailand;Pattani;6.86814,101.25009;Theft	17
+Thailand;Sara Buri;14.5289154,100.9101421;Armed-Attack	1
+Thailand;Songkhla;7.1756004,100.614347;Armed-Attack	3
+Thailand;Songkhla;7.1756004,100.614347;Bombing	5
+Thailand;Tak;16.86968,99.12898;Armed-Attack	0
+Thailand;Tak;16.86968,99.12898;Barricade/Hostage	0
+Thailand;Yala;6.541147,101.2803947;Armed-Attack	28
+Thailand;Yala;6.541147,101.2803947;Bombing	44
+Thailand;Yala;6.541147,101.2803947;Theft	1
+Turkey;Adana;37.00167,35.32889;Arson/Firebombing	0
+Turkey;Adana;37.00167,35.32889;Bombing	5
+Turkey;Adiyaman;37.76441,38.27629;Bombing	0
+Turkey;Agri;39.7188318,43.0484269;Bombing	0
+Turkey;Batman;37.88738,41.13221;Armed-Attack	2
+Turkey;Diyarbakir;37.9144099,40.230629;Arson/Firebombing	0
+Turkey;Diyarbakir;37.9144099,40.230629;Bombing	2
+Turkey;Hakkari;37.58333,44.16667;Armed-Attack	4
+Turkey;Hakkari;37.58333,44.16667;Bombing	1
+Turkey;Icel;36.79526,34.61792;Arson/Firebombing	0
+Turkey;Istanbul;41.00527,28.97696;Arson/Firebombing	1
+Turkey;Istanbul;41.00527,28.97696;Bombing	9
+Turkey;Kahramanmaras;37.5847,36.9264;Arson/Firebombing	0
+Turkey;Kastamonu;41.37805,33.77528;Bombing	0
+Turkey;Mardin;37.31309,40.74357;Arson/Firebombing	0
+Turkey;Mardin;37.31309,40.74357;Bombing	1
+Turkey;Mus;38.74525,41.50693;Bombing	1
+Turkey;Sanliurfa;37.16708,38.79392;Arson/Firebombing	0
+Turkey;Sirnak;37.51873,42.469761;Armed-Attack	3
+Turkey;Sirnak;37.51873,42.469761;Arson/Firebombing	0
+Turkey;Sirnak;37.51873,42.469761;Bombing	0
+Turkey;Tunceli;39.1058251,39.5455166;Bombing	2
+Ukraine;Zaporizka Oblast;47.5,35.5;Armed-Attack	0
+United Kingdom;Northern Ireland;54.7877149,-6.4923145;Arson/Firebombing	0
+United Kingdom;Northern Ireland;54.7877149,-6.4923145;Bombing	1
+United Kingdom;Northern Ireland;54.7877149,-6.4923145;Theft	0
+United States;New York;40.71427,-74.00597;Arson/Firebombing	0
+Venezuela;Carabobo;10.16202,-68.00765;Bombing	0
+West Bank;Bayt Dajan;31.9465703,35.3027226;Armed-Attack	1
+West Bank;Bayt Immar;31.62329,35.10446;Armed-Attack	2
+West Bank;Bilin;31.928516,35.070954;Arson/Firebombing	0
+West Bank;Burin;32.18452,35.25015;Armed-Attack	0
+West Bank;Burin;32.18452,35.25015;Assault	3
+West Bank;Burin;32.18452,35.25015;Unknown	4
+West Bank;Eli;31.9465703,35.3027226;Arson/Firebombing	0
+West Bank;Hebron;31.532569,35.099826;Arson/Firebombing	0
+West Bank;Huwarah;31.44234,35.1818;Arson/Firebombing	0
+West Bank;Iraq Burin;32.20081,35.24159;Assault	1
+West Bank;Itamar;31.78336,35.23388;Theft	2
+West Bank;Jaba;32.32409,35.22132;Unknown	1
+West Bank;Kokhav HaShahar;31.9465703,35.3027226;Arson/Firebombing	0
+West Bank;Madama;31.9465703,35.3027226;Arson/Firebombing	0
+West Bank;Nablus;32.22111,35.25444;Armed-Attack	1
+West Bank;Nablus;32.22111,35.25444;Arson/Firebombing	0
+West Bank;Nablus;32.22111,35.25444;Assault	0
+West Bank;Qalqilyah;32.18966,34.97063;Arson/Firebombing	0
+West Bank;Ramallah;31.90256,35.19555;Arson/Firebombing	0
+West Bank;the Kafr Qaddum;31.78336,35.23388;Arson/Firebombing	0
+Yala Thailand;Krong Pinang;6.3906295,101.2297105;Armed-Attack	2
+Yemen;2 doctors kidnapped by suspected tribal members;15.5,47.5;Kidnapping	0
+Yemen;;17.570692,-3.996166;Armed-Attack	0
+Yemen;Abyan;13.6291,46.126;Armed-Attack	37
+Yemen;Abyan;13.6291,46.126;Assault	1
+Yemen;Abyan;13.6291,46.126;Bombing	7
+Yemen;Abyan;13.6291,46.126;Kidnapping	0
+Yemen;Abyan;13.6291,46.126;Theft	3
+Yemen;Ad Dali;13.8924,44.7625;Armed-Attack	8
+Yemen;Ad Dali;13.8924,44.7625;Hijacking	0
+Yemen;Adan;12.8257481,44.7943804;Armed-Attack	1
+Yemen;Adan;12.8257481,44.7943804;Bombing	7
+Yemen;Hadramawt;16.9304135,49.3653149;Armed-Attack	6
+Yemen;Hadramawt;16.9304135,49.3653149;Kidnapping	0
+Yemen;Hadramawt;16.9304135,49.3653149;Theft	8
+Yemen;Ibb;13.9666667,44.1666667;Armed-Attack	1
+Yemen;Lahij;13.16667,44.58333;Armed-Attack	17
+Yemen;Lahij;13.16667,44.58333;Bombing	0
+Yemen;Lahij;13.16667,44.58333;Kidnapping	0
+Yemen;Lahij;13.16667,44.58333;Unknown	1
+Yemen;Marib;15.6213,46.0111;Armed-Attack	7
+Yemen;Marib;15.6213,46.0111;Bombing	0
+Yemen;Marib;15.6213,46.0111;Kidnapping	0
+Yemen;Marib;15.6213,46.0111;Unknown	0
+Yemen;Sadah;16.94021,43.76394;Armed-Attack	3
+Yemen;Sadah;16.94021,43.76394;Bombing	0
+Yemen;Sadah;16.94021,43.76394;Kidnapping	0
+Yemen;Sana;16.0905301,49.6554124;Armed-Attack	2
+Yemen;Sana;16.0905301,49.6554124;Bombing	1
+Yemen;Sana;16.0905301,49.6554124;Kidnapping	2
+Yemen;Shabwah;15.3690262,47.0272926;Armed-Attack	2
+Yemen;Shabwah;15.3690262,47.0272926;Bombing	0
+Yemen;Shabwah;15.3690262,47.0272926;Kidnapping	0
+Yemen;Shabwah;15.3690262,47.0272926;Unknown	4
+Yemen;Taizz;13.57952,44.02091;Armed-Attack	22
+the Central African Republic;1 civilian killed by suspected LRA;55.23333,-1.53333;Unknown	1
+the West Bank;;17.570692,-3.996166;Armed-Attack	1

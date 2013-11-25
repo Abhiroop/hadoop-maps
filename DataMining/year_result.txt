@@ -1,0 +1,7 @@
+Armed Attack	33
+Barricade/Hostage	2
+Unknown	2
+Assault	5
+Arson/Firebombing	7
+Kidnapping	7
+Bombing	48
